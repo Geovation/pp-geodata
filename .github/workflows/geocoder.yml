@@ -26,7 +26,7 @@ jobs:
         run: python download_data.py
 
       - name: Run geocoder
-        run: python geocoder_data.py
+        run: python geocode_data.py
 
       - name: check for changes
         run: git status
