@@ -33,6 +33,9 @@ jobs:
       - name: Run geocoder
         run: python geocode_data.py
 
+      - name: Run CSV files
+        run: python generate_csv.py
+
       - name: check for changes
         run: git status
 
