@@ -103,7 +103,7 @@ reading_fields = [
         "type": "string"
     },
     {
-        "name": "pH",
+        "name": "ph",
         "displayName": "pH Reading",
         "type": "number"
     }
