@@ -6,6 +6,10 @@ readings_file_prod = "prod/readings"
 readings_file_dev = "dev/readings"
 readings_file_test = "test/readings"
 
+incidents_file_prod = "prod/incidents"
+incidents_file_dev = "dev/incidents"
+incidents_file_test = "test/incidents"
+
 reading_fields = [
     {
         "name": "id",
@@ -108,6 +112,64 @@ reading_fields = [
         "type": "number"
     }
 ]
+
+incident_fields = [
+    {
+        "name": "id",
+        "displayName": "ID",
+        "type": "string"
+    },
+    {
+        "name": "userId",
+        "displayName": "User ID",
+        "type": "string"
+    },
+    {
+        "name": "dateTime",
+        "displayName": "Date",
+        "type": "datetime_milliseconds"
+    },
+    {
+        "name": "waterwayName",
+        "displayName": "Waterway Name",
+        "type": "string"
+    },
+        {
+        "name": "description",
+        "displayName": "Description",
+        "type": "string"
+    },
+    {
+        "name": "latitude",
+        "displayName": "Latitude",
+        "type": "number"
+    },
+    {
+        "name": "longitude",
+        "displayName": "Longitude",
+        "type": "number"
+    },
+    {
+        "name": "region",
+        "displayName": "Region",
+        "type": "string"
+    },
+    {
+        "name": "postcode",
+        "displayName": "Postcode",
+        "type": "string"
+    },
+    {
+        "name": "district",
+        "displayName": "District",
+        "type": "string"
+    },
+    {
+        "name": "country",
+        "displayName": "Country",
+        "type": "string"
+    },
+
 
 
 def ConvertEpochToDateTime(epoch):

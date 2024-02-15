@@ -1,6 +1,35 @@
-# Planet patrol geodata processor 
+# Planet patrol geodata processor
 
 Adding geospatial data analysis to citizen science data.
+
+## Pre-requisites
+
+The processor is written in Python 3. It uses spatialite and SQLite databases to do the reverse geocoding. The processor is designed to run in a GitHub action, but can be run locally.
+
+Setup (MacOS):
+
+```console
+brew install sqlite libspatialite
+pip install spatialite requests
+```
+
+On MacOS, you may need to add the following to your path to temporarily use the homebrew version of sqlite.
+
+```console
+export PATH="$(brew --prefix sqlite)/bin:${PATH}"
+export PATH="$(brew --prefix libspatialite)/lib:${PATH}"
+export LDFLAGS="-L$(brew --prefix sqlite)/lib"
+export CPPFLAGS="-I$(brew --prefix sqlite)/include"
+```
+
+Ensure you are using a version of python that supports and allows loading extensions.
+
+Setup (Linux):
+
+```console
+apt-get install libsqlite3-mod-spatialite
+pip install spatialite requests
+```
 
 ## What is it?
 
