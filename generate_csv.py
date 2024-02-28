@@ -134,7 +134,7 @@ incident_fields = [
         "displayName": "Waterway Name",
         "type": "string"
     },
-        {
+    {
         "name": "description",
         "displayName": "Description",
         "type": "string"
@@ -168,8 +168,8 @@ incident_fields = [
         "name": "country",
         "displayName": "Country",
         "type": "string"
-    },
-
+    }
+]
 
 
 def ConvertEpochToDateTime(epoch):
