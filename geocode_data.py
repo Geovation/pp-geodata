@@ -143,4 +143,4 @@ ProcessGeocodeDataForFile(photos_file_dev, 'photos')
 
 ProcessGeocodeDataForFile(incidents_file_prod, 'incidents')
 ProcessGeocodeDataForFile(incidents_file_dev, 'incidents')
-ProcessGeocodeDataForFile(incidents_file_test, 'incidents')
+

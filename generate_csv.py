@@ -249,3 +249,7 @@ def LoadJsonFile(filename):
 ProcessFileToCSV(readings_file_prod, 'readings', reading_fields)
 ProcessFileToCSV(readings_file_dev, 'readings', reading_fields)
 ProcessFileToCSV(readings_file_test, 'readings', reading_fields)
+
+ProcessFileToCSV(incidents_file_prod, 'incidents', incident_fields)
+ProcessFileToCSV(incidents_file_dev, 'incidents', incident_fields)
+ProcessFileToCSV(incidents_file_test, 'incidents', incident_fields)
