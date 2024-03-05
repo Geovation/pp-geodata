@@ -17,6 +17,9 @@ incidents_url_test = "https://us-central1-plastic-patrol-dev-test.cloudfunctions
 
 def saveFileFromUrl(url, filename):
     r = requests.get(url, allow_redirects=True)
+    if r.status_code != 200:
+        print(f"Error: {r.status_code} - {url}")
+        return
     open(filename, 'wb').write(r.content)
 
 

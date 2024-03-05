@@ -35,7 +35,7 @@ incidents_files = [incidents_file_prod,
 
 
 def LoadJsonFile(filename):
-    file_data = json.load(open(filename))
+    file_data = json.load(open(filename, 'r', encoding='utf-8'))
     return file_data
 
 
@@ -63,10 +63,10 @@ def GetGeocodeData(longitude, latitude):
         else:
             region_name_lower = region_result[1].replace(' ', '_').lower()
 
-            regional_db = region_postcodes_dbs[region_name_lower]
-            if regional_db is None:
+            if region_name_lower not in region_postcodes_dbs:
                 return None
 
+            regional_db = region_postcodes_dbs[region_name_lower]
             regional_db.execute('select * from postcodes limit 1')
 
             postcode_result = regional_db.execute('select postcode from postcodes order by distance(makepoint(?, ?, 4326), geom) limit 1', [
@@ -93,22 +93,34 @@ def ProcessGeocodeDataForFile(filename, type):
     already_processed_data_dict = {}
     processed_file_exists = os.path.isfile(filename + '_geo.json')
 
+    print('Processing ' + filename + '...')
+
     if processed_file_exists:
         already_processed_data = LoadJsonFile(filename + '_geo.json')
+        data_array = already_processed_data[type]
         # key already processed data by id
-        for reading in already_processed_data['readings']:
-            already_processed_data_dict[reading['id']] = reading
+        for reading in data_array:
+            if (type == 'photos'):
+                reading_id = reading
+                reading = data_array[reading]
+            else:
+                reading_id = reading['id']
+            already_processed_data_dict[reading_id] = reading
 
     data_array = file_data[type]
 
     for reading in data_array:
-
-        longitude = reading['location']['longitude']
-        latitude = reading['location']['latitude']
+        if (type == 'photos'):
+            reading_id = reading
+            reading = data_array[reading]
+            reading['id'] = reading_id
 
         if (type == 'photos'):
             longitude = reading['location']['_longitude']
             latitude = reading['location']['_latitude']
+        else:
+            longitude = reading['location']['longitude']
+            latitude = reading['location']['latitude']
 
         # If we've already done it, get the data from the already processed file
         if processed_file_exists and reading['id'] in already_processed_data_dict and 'geodata' in already_processed_data_dict[reading['id']]:
@@ -118,10 +130,17 @@ def ProcessGeocodeDataForFile(filename, type):
             if geocode_data is not None:
                 reading['geodata'] = geocode_data
 
-    with open(filename + '_geo.json', 'w') as outfile:
+    with open(filename + '_geo.json', 'w', encoding='utf-8') as outfile:
         json.dump(file_data, outfile)
 
 
 ProcessGeocodeDataForFile(readings_file_prod, 'readings')
 ProcessGeocodeDataForFile(readings_file_dev, 'readings')
 ProcessGeocodeDataForFile(readings_file_test, 'readings')
+
+ProcessGeocodeDataForFile(photos_file_prod, 'photos')
+ProcessGeocodeDataForFile(photos_file_dev, 'photos')
+
+ProcessGeocodeDataForFile(incidents_file_prod, 'incidents')
+ProcessGeocodeDataForFile(incidents_file_dev, 'incidents')
+
