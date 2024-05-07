@@ -10,6 +10,10 @@ incidents_file_prod = "prod/incidents"
 incidents_file_dev = "dev/incidents"
 incidents_file_test = "test/incidents"
 
+photos_file_prod = "prod/photos"
+photos_file_dev = "dev/photos"
+photos_file_test = "test/photos"
+
 reading_fields = [
     {
         "name": "id",
@@ -171,6 +175,44 @@ incident_fields = [
     }
 ]
 
+photo_fields = [
+    {
+        "name": "id",
+        "displayName": "ID",
+        "type": "string"
+    },
+    {
+        "name": "created",
+        "displayName": "Date",
+        "type": "string"
+    },
+    {
+        "name": "pieces",
+        "displayName": "Pieces",
+        "type": "number"
+    },
+    {
+        "name": "region",
+        "displayName": "Region",
+        "type": "string"
+    },
+    {
+        "name": "postcode",
+        "displayName": "Postcode",
+        "type": "string"
+    },
+    {
+        "name": "district",
+        "displayName": "District",
+        "type": "string"
+    },
+    {
+        "name": "country",
+        "displayName": "Country",
+        "type": "string"
+    }
+]
+
 
 def ConvertEpochToDateTime(epoch):
     if (epoch == None):
@@ -180,7 +222,7 @@ def ConvertEpochToDateTime(epoch):
 
 
 def ConvertEpochMillisecondsToDateTime(epoch):
-    if (epoch == None):
+    if (epoch is None or not isinstance(epoch, int)):
         return ""
     else:
         return ConvertEpochToDateTime(epoch / 1000)
@@ -223,7 +265,16 @@ def ConvertFieldNamesToDisplayNames(csv_data, fields):
 def ConvertJSONToCSVData(json, type):
     rows = []
     json_data = json[type]
-    json_data.sort(key=lambda x: x['dateTime'] if x['dateTime'] else 0)
+
+    # If the type is photos then it is keyed by id. convert to a list
+    if type == 'photos':
+        json_data = []
+        for key in json['photos'].keys():
+            json_data.append(json['photos'][key])
+            json_data.sort(key=lambda x: x['created']
+                           if 'created' in x else '')
+    else:
+        json_data.sort(key=lambda x: x['dateTime'] if x['dateTime'] else 0)
     for i in json_data:
         rows.append(FlattenJsonObj(i))
     return rows
@@ -253,3 +304,6 @@ ProcessFileToCSV(readings_file_test, 'readings', reading_fields)
 ProcessFileToCSV(incidents_file_prod, 'incidents', incident_fields)
 ProcessFileToCSV(incidents_file_dev, 'incidents', incident_fields)
 ProcessFileToCSV(incidents_file_test, 'incidents', incident_fields)
+
+ProcessFileToCSV(photos_file_prod, 'photos', photo_fields)
+ProcessFileToCSV(photos_file_dev, 'photos', photo_fields)
