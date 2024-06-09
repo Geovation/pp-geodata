@@ -182,6 +182,11 @@ photo_fields = [
         "type": "string"
     },
     {
+        "name": "moderator_id",
+        "displayName": "Mod ID",
+        "type": "string"
+    },
+    {
         "name": "created",
         "displayName": "Date",
         "type": "string"
