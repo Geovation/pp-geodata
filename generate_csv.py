@@ -202,6 +202,11 @@ photo_fields = [
         "type": "number"
     },
     {
+        "name": "brand",
+        "displayName": "Brands",
+        "type": "multicolumn"
+    },
+    {
         "name": "region",
         "displayName": "Region",
         "type": "string"
@@ -245,6 +250,17 @@ def FlattenJsonObj(json):
             get = FlattenJsonObj(json[i])
             for j in get.keys():
                 val[j] = get[j]
+        elif isinstance(json[i], list):
+            for list_item in json[i]:
+                if isinstance(list_item, dict):
+                    get = FlattenJsonObj(list_item)
+                    index = 1
+                    for j in get.keys():
+                        val[j + '_' + str(index)] = get[j]
+                        index += 1
+                else:
+                    val[i] = list_item
+
         else:
             val[i] = json[i]
     return val
@@ -256,16 +272,29 @@ def ConvertFieldNamesToDisplayNames(csv_data, fields):
         row = {}
         for k in fields:
             field_value = ""
-            for j in i.keys():
-                if (j == k['name']):
-                    if (k['type'] == 'datetime_seconds'):
-                        field_value = ConvertEpochToDateTime(i[j])
-                    elif (k['type'] == 'datetime_milliseconds'):
-                        field_value = ConvertEpochMillisecondsToDateTime(i[j])
-                    elif (k['type'] == 'string'):
-                        field_value = i[j].strip()
-                    else:
-                        field_value = i[j]
+
+            # Deal with our multi column fields
+            if (k['type'] == 'multicolumn'):
+                field_values = []
+                for j in i.keys():
+                    # remove anything from _ onwards in the field name
+                    # this is to handle the brand_1, brand_2 etc
+                    if (k['name'] == j.split('_')[0] and i[j] is not None and i[j] != ''):
+                        field_values.append(i[j])
+                field_value = '|'.join(field_values)
+
+            else:
+                for j in i.keys():
+                    if (j == k['name']):
+                        if (k['type'] == 'datetime_seconds'):
+                            field_value = ConvertEpochToDateTime(i[j])
+                        elif (k['type'] == 'datetime_milliseconds'):
+                            field_value = ConvertEpochMillisecondsToDateTime(
+                                i[j])
+                        elif (k['type'] == 'string'):
+                            field_value = i[j].strip()
+                        else:
+                            field_value = i[j]
 
             row[k['displayName']] = field_value
         new_csv_data.append(row)
