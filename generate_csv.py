@@ -207,6 +207,11 @@ photo_fields = [
         "type": "multicolumn"
     },
     {
+        "name": "label",
+        "displayName": "Labels",
+        "type": "multicolumn"
+    },
+    {
         "name": "region",
         "displayName": "Region",
         "type": "string"
