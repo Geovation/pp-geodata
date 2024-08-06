@@ -1,4 +1,4 @@
-ID,User ID,Mod ID,Date,Pieces,Brands,Region,Postcode,District,Country
-PttyEUkUGcTuDpahX2WL,gVgII8eWoCQGyYl7F5nlQffUzYs1,gVgII8eWoCQGyYl7F5nlQffUzYs1,2022-05-30T00:30:05.492Z,1,,London,SE14 5XD,Lewisham,England
-O6VSLTtt8nOBtya8zMS1,TcPLhs1vi9dpY1wXFHOJaHJFhR12,TcPLhs1vi9dpY1wXFHOJaHJFhR12,2022-06-08T11:29:09.701Z,1,Coca Cola,North East,NE6 5XS,Newcastle upon Tyne,England
-ZbYDafXPGChfyMIrNdXF,TcPLhs1vi9dpY1wXFHOJaHJFhR12,TcPLhs1vi9dpY1wXFHOJaHJFhR12,2022-06-08T11:34:44.236Z,1,Coca Cola,North East,NE6 5XS,Newcastle upon Tyne,England
+ID,User ID,Mod ID,Date,Pieces,Brands,Labels,Region,Postcode,District,Country
+PttyEUkUGcTuDpahX2WL,gVgII8eWoCQGyYl7F5nlQffUzYs1,gVgII8eWoCQGyYl7F5nlQffUzYs1,2022-05-30T00:30:05.492Z,1,,Plastic bottle lid,London,SE14 5XD,Lewisham,England
+O6VSLTtt8nOBtya8zMS1,TcPLhs1vi9dpY1wXFHOJaHJFhR12,TcPLhs1vi9dpY1wXFHOJaHJFhR12,2022-06-08T11:29:09.701Z,1,Coca Cola,Can,North East,NE6 5XS,Newcastle upon Tyne,England
+ZbYDafXPGChfyMIrNdXF,TcPLhs1vi9dpY1wXFHOJaHJFhR12,TcPLhs1vi9dpY1wXFHOJaHJFhR12,2022-06-08T11:34:44.236Z,1,Coca Cola,Can,North East,NE6 5XS,Newcastle upon Tyne,England
