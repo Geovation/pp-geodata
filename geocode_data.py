@@ -56,8 +56,8 @@ def GetGeocodeData(longitude, latitude):
             'scotland': postcode_db_scotland
         }
 
-        region_result = region_db.execute('select code, name from regions where within(makepoint(?, ?, 4326), geom)', [
-            float(longitude), float(latitude)]).fetchone()
+        region_result = region_db.execute('select code, name, distance(makepoint(?, ?, 4326), geom) as distance from regions where distance < 0.01  order by distance asc limit 1', [
+                                          float(longitude), float(latitude)]).fetchone()
         if region_result is None:
             return None
         else:
@@ -143,4 +143,3 @@ ProcessGeocodeDataForFile(photos_file_dev, 'photos')
 
 ProcessGeocodeDataForFile(incidents_file_prod, 'incidents')
 ProcessGeocodeDataForFile(incidents_file_dev, 'incidents')
-
