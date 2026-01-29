@@ -1,4 +1,12 @@
 ID,User ID,Reading Type,Date,Waterway Name,Test Kit Name,Latitude,Longitude,Region,Postcode,District,Country,Coliforms Reading,Phosphate Reading,Phosphate Units,Nitrite Reading,Nitrite Units,Nitrate Reading,Nitrate Units,pH Reading
+1mhxsjg8UlqwpyDtjGnx,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.18801166666667,-2.8689666666666667,North West,CH3 5UT,Cheshire West and Chester,England,True,,,,,,,
+BI0ekIE0lubP6kwjxjFY,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.182428333333334,-2.8708333333333336,North West,CH3 5UX,Cheshire West and Chester,England,True,,,,,,,
+BkOEPqP65mZwUKw0dNHx,ERFtPMiLHSgWmSeVjJKUJud2qJ32,coliforms,,Bristol Feeder Canal,Planet Patrol,,,,,,,True,,,,,,,
+RXGDaibR6pfh8jQwtoHi,ERFtPMiLHSgWmSeVjJKUJud2qJ32,coliforms,,Bristol Feeder Canal,Planet Patrol,,,,,,,True,,,,,,,
+Z1pCbsVeFjkS6PKFfyFY,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.187875,-2.869813333333333,North West,CH3 5UW,Cheshire West and Chester,England,True,,,,,,,
+hyqJxHm1FxQK7Q8Xqw8u,ERFtPMiLHSgWmSeVjJKUJud2qJ32,coliforms,,Bristol Feeder canal,Planet Patrol,,,,,,,True,,,,,,,
+qOJ3QQdxynrrKJm7QXLV,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.187745,-2.8698033333333335,North West,CH3 5UW,Cheshire West and Chester,England,True,,,,,,,
+sqtDXry9rZaBEb0WzusY,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.187564,-2.8699584,North West,CH3 5UW,Cheshire West and Chester,England,False,,,,,,,
 9zYtL3SpFkx5QY930Ucx,w3a4GY9o1TZPW86MRpeyUKN7rBm2,ph,,River Dee,Planet Patrol,53.18795333333333,-2.86942,North West,CH3 5UW,Cheshire West and Chester,England,,,,,,,,6
 R7hl84RP14sN0G4orGX7,w3a4GY9o1TZPW86MRpeyUKN7rBm2,ph,,River Dee,Planet Patrol,53.187655,-2.8697033333333333,North West,CH3 5UW,Cheshire West and Chester,England,,,,,,,,6.5
 ZjocCqsWP601jWpHauyE,ERFtPMiLHSgWmSeVjJKUJud2qJ32,ph,,Bristol Feeder Canal,Planet Patrol,,,,,,,,,,,,,,8
@@ -15,14 +23,6 @@ VaSitaEQfqi3MjZJ25EF,ERFtPMiLHSgWmSeVjJKUJud2qJ32,phosphate,,Bristol Feeder Cana
 cyFArt6tExMa7XaJEe0p,w3a4GY9o1TZPW86MRpeyUKN7rBm2,phosphate,,River Dee,Planet Patrol,53.187725,-2.8698383333333335,North West,CH3 5UW,Cheshire West and Chester,England,,100,ppb,,,,,
 pewKWocJzTnSS5uJfHJw,w3a4GY9o1TZPW86MRpeyUKN7rBm2,phosphate,,River Dee,Planet Patrol,53.18795333333333,-2.8694166666666665,North West,CH3 5UW,Cheshire West and Chester,England,,100,ppb,,,,,
 wFWES9KwpncCEThDO6xt,ERFtPMiLHSgWmSeVjJKUJud2qJ32,phosphate,,Bristol Feeder Canal,Planet Patrol,51.4521831,-2.597503,South West,BS1 5TX,"Bristol, City of",England,,100,ppb,,,,,
-1mhxsjg8UlqwpyDtjGnx,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.18801166666667,-2.8689666666666667,North West,CH3 5UT,Cheshire West and Chester,England,True,,,,,,,
-BI0ekIE0lubP6kwjxjFY,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.182428333333334,-2.8708333333333336,North West,CH3 5UX,Cheshire West and Chester,England,True,,,,,,,
-BkOEPqP65mZwUKw0dNHx,ERFtPMiLHSgWmSeVjJKUJud2qJ32,coliforms,,Bristol Feeder Canal,Planet Patrol,,,,,,,True,,,,,,,
-RXGDaibR6pfh8jQwtoHi,ERFtPMiLHSgWmSeVjJKUJud2qJ32,coliforms,,Bristol Feeder Canal,Planet Patrol,,,,,,,True,,,,,,,
-Z1pCbsVeFjkS6PKFfyFY,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.187875,-2.869813333333333,North West,CH3 5UW,Cheshire West and Chester,England,True,,,,,,,
-hyqJxHm1FxQK7Q8Xqw8u,ERFtPMiLHSgWmSeVjJKUJud2qJ32,coliforms,,Bristol Feeder canal,Planet Patrol,,,,,,,True,,,,,,,
-qOJ3QQdxynrrKJm7QXLV,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.187745,-2.8698033333333335,North West,CH3 5UW,Cheshire West and Chester,England,True,,,,,,,
-sqtDXry9rZaBEb0WzusY,w3a4GY9o1TZPW86MRpeyUKN7rBm2,coliforms,,River Dee,Planet Patrol,53.187564,-2.8699584,North West,CH3 5UW,Cheshire West and Chester,England,False,,,,,,,
 1A11YSP7NIgnCGB3lCwf,w3a4GY9o1TZPW86MRpeyUKN7rBm2,nitrate,,River Dee,Planet Patrol,53.187725,-2.86982,North West,CH3 5UW,Cheshire West and Chester,England,,,,0,mg/l,25,mg/l,
 41fmrABh6hVbxkb4JWQL,w3a4GY9o1TZPW86MRpeyUKN7rBm2,nitrate,,River Dee,Planet Patrol,53.187855,-2.869325,North West,CH3 5UW,Cheshire West and Chester,England,,,,0,mg/l,25,mg/l,
 TdDJ8dm0vhBauW1GITrG,w3a4GY9o1TZPW86MRpeyUKN7rBm2,nitrate,,River Dee,Planet Patrol,53.18787,-2.8697116666666664,North West,CH3 5UW,Cheshire West and Chester,England,,,,0,mg/l,25,mg/l,
@@ -112,8 +112,8 @@ DlwzzZp7Jt9DxezzEtNv,afxeCZ69iTQhIPrVqC9OWALkke32,coliforms,2022-05-01 16:12:00,
 87n33mUg0xeE13Sk2Uco,PAFSuXEKfrNRMnYzTsvOMpei9rc2,coliforms,2022-05-01 16:19:00,River Isbourne,Planet Patrol,52.0423219,-1.9554718,West Midlands,WR11 7AS,Wychavon,England,True,,,,,,,
 TzwFuddemCwPDRB8mFS9,rUXGPVbGrGfccqQRk547GsdBeTv1,phosphate,2022-05-01 16:37:00,River Thames,Planet Patrol,51.46516408776069,-0.9753599110999847,South East,RG1 8DS,Reading,England,,100,ppb,,,,,
 Qy0ZMk2Nv9djLLv9A8M6,rUXGPVbGrGfccqQRk547GsdBeTv1,ph,2022-05-01 16:43:00,River Thames,Planet Patrol,51.46507833333333,-0.9752533333333333,South East,RG1 8DS,Reading,England,,,,,,,,7
-07L1sU3Djpq6glxgUtp1,xjOvw2mOFrQadxExn2XXtATc3es2,ph,2022-05-01 16:48:00,Upper river ivel,Planet Patrol,51.995596666666664,-0.194845,East of England,SG7 5AU,North Hertfordshire,England,,,,,,,,6
 13cBY4OQ7qB4rJvB1t2f,xjOvw2mOFrQadxExn2XXtATc3es2,coliforms,2022-05-01 16:48:00,Upper river ivel,Planet Patrol,51.995595,-0.19504166666666667,East of England,SG7 5AU,North Hertfordshire,England,True,,,,,,,
+07L1sU3Djpq6glxgUtp1,xjOvw2mOFrQadxExn2XXtATc3es2,ph,2022-05-01 16:48:00,Upper river ivel,Planet Patrol,51.995596666666664,-0.194845,East of England,SG7 5AU,North Hertfordshire,England,,,,,,,,6
 TmUPmcHikXiiOzPde2ob,QdiihUzERmaqq2p0tMI3RNrfYTm2,nitrate,2022-05-01 16:48:35,"River Stour, Kent",Planet Patrol,51.323351489645745,1.208982960340983,South East,CT3 4BP,Canterbury,England,,,,1,mg/l,100,mg/l,
 bkZvD5UoBW8ujJfDfHPL,rUXGPVbGrGfccqQRk547GsdBeTv1,nitrate,2022-05-01 16:49:00,River Thames,Planet Patrol,51.46512,-0.9752083333333333,South East,RG1 8DS,Reading,England,,,,5,mg/l,10,mg/l,
 okkMqf1xTPsqZrwiZ3aZ,Y19iuIcwjMQyODmY6NVloks5He33,phosphate,2022-05-01 16:49:32,River Itchen,Planet Patrol,50.9323528,-1.3804044,South East,SO17 3ES,Southampton,England,,100,ppb,,,,,
@@ -123,14 +123,14 @@ nV4exBAuzLEQOjxw5FEz,xjOvw2mOFrQadxExn2XXtATc3es2,phosphate,2022-05-01 16:52:00,
 eVp5Z3sCNd63Ox4lATXC,rUXGPVbGrGfccqQRk547GsdBeTv1,coliforms,2022-05-01 16:53:00,River Thames,Planet Patrol,51.46508333333333,-0.9752133333333333,South East,RG1 8DS,Reading,England,True,,,,,,,
 oVKOIRlKjcsZD8A0v8vd,xjOvw2mOFrQadxExn2XXtATc3es2,nitrate,2022-05-01 16:53:00,Upper river ivel,Planet Patrol,51.99554666666667,-0.19490000000000002,East of England,SG7 5AU,North Hertfordshire,England,,,,0,mg/l,50,mg/l,
 Y0vcplxX8RZPTMkFEWjf,Y19iuIcwjMQyODmY6NVloks5He33,nitrate,2022-05-01 16:55:00,River Itchen,Planet Patrol,50.9323528,-1.3804044,South East,SO17 3ES,Southampton,England,,,,0,mg/l,50,mg/l,
-QzzIcYyBsOJDeBhdnZ8o,Y19iuIcwjMQyODmY6NVloks5He33,ph,2022-05-01 17:00:00,River Itchen,Planet Patrol,50.9323528,-1.3804044,South East,SO17 3ES,Southampton,England,,,,,,,,7
 lGHmLoHynesxqa2kn4UN,Y19iuIcwjMQyODmY6NVloks5He33,coliforms,2022-05-01 17:00:00,River Itchen,Planet Patrol,,,,,,,True,,,,,,,
+QzzIcYyBsOJDeBhdnZ8o,Y19iuIcwjMQyODmY6NVloks5He33,ph,2022-05-01 17:00:00,River Itchen,Planet Patrol,50.9323528,-1.3804044,South East,SO17 3ES,Southampton,England,,,,,,,,7
 os7BRQqFakVIEsMKmMHw,xsJuACuH6IUIM443bQWoHeFCaru1,phosphate,2022-05-01 18:52:16,Balderton lake,Planet Patrol,53.0632546,-0.7912135,East Midlands,NG24 3AZ,Newark and Sherwood,England,,0,ppb,,,,,
 hIVD0dW3cpJ1Nov30ZcV,xsJuACuH6IUIM443bQWoHeFCaru1,ph,2022-05-01 18:58:20,Balderton lake,Planet Patrol,53.0632546,-0.7912135,East Midlands,NG24 3AZ,Newark and Sherwood,England,,,,,,,,6
 Io1p30YfUuIdt12U9z3L,xsJuACuH6IUIM443bQWoHeFCaru1,nitrate,2022-05-01 19:03:40,Balderton lake,Planet Patrol,53.0632546,-0.7912135,East Midlands,NG24 3AZ,Newark and Sherwood,England,,,,0,mg/l,0,mg/l,
 Bu2u3wJ1Z685PozhpHat,65HDyNVqg7RM4lCuVfThAEt8Tlx1,ph,2022-05-02 08:01:00,River Thames,Planet Patrol,51.5465577,-0.8392066,South East,SL7 2ER,Buckinghamshire,England,,,,,,,,7
-yNI6RRK55fCJ2yHuLVDw,65HDyNVqg7RM4lCuVfThAEt8Tlx1,phosphate,2022-05-02 08:15:00,River Thames,Planet Patrol,51.5465283,-0.8392971,South East,SL7 2ER,Buckinghamshire,England,,0,ppb,,,,,
 1kWgnn6ISXQqKofxir6k,65HDyNVqg7RM4lCuVfThAEt8Tlx1,coliforms,2022-05-02 08:15:00,River Thames,Planet Patrol,51.5465482,-0.8392823,South East,SL7 2ER,Buckinghamshire,England,True,,,,,,,
+yNI6RRK55fCJ2yHuLVDw,65HDyNVqg7RM4lCuVfThAEt8Tlx1,phosphate,2022-05-02 08:15:00,River Thames,Planet Patrol,51.5465283,-0.8392971,South East,SL7 2ER,Buckinghamshire,England,,0,ppb,,,,,
 kxiQXISBRq6oF1seQ0Cc,65HDyNVqg7RM4lCuVfThAEt8Tlx1,nitrate,2022-05-02 08:15:00,River Thames,Planet Patrol,51.5464725,-0.8393149,South East,SL7 2ER,Buckinghamshire,England,,,,5,mg/l,10,mg/l,
 jiGaC86pIHoqbnp4Oknc,JMSMXpz053fsjEWYJvRDbXD2cuu1,coliforms,2022-05-02 09:00:00,River Exe,Planet Patrol,50.6941332,-3.4974244,South West,EX2 7DA,Exeter,England,True,,,,,,,
 uEjThu0ARRN9tTQU6x2j,HlRez16yV7Zv4O1rltWGcwzpymA2,nitrate,2022-05-02 09:57:43,Trent,Planet Patrol,52.9222521,-1.1675991,East Midlands,NG11 7ES,Nottingham,England,,,,5,mg/l,10,mg/l,
@@ -387,8 +387,8 @@ GJ3uGydWca9kEVcqOChC,LDVRxTsBkDhZrFifBmGDWHRnEug1,coliforms,2022-05-16 20:03:00,
 Gu0uscWbLRqgkoLBB99V,DSPp9S8kGjey2bPI7DVUWLu6XPK2,coliforms,2022-05-17 07:38:38,River Thames Henley,Planet Patrol,51.406728333333334,-0.85798,South East,RG41 3HN,Wokingham,England,True,,,,,,,
 LXkImIRJ5pGUbZG5cCjn,YWdTUjUfXNUpbOS7f4u6DDhIrME2,ph,2022-05-17 07:54:00,River Kelvin,Planet Patrol,55.8696564,-4.2888201,Scotland,G3 8AG,Glasgow City,Scotland,,,,,,,,6
 US2k6NdErhM0TMrg4tdi,YWdTUjUfXNUpbOS7f4u6DDhIrME2,nitrate,2022-05-17 07:54:00,River Kelvin,Planet Patrol,55.8695917,-4.2885964,Scotland,G12 8QQ,Glasgow City,Scotland,,,,0,mg/l,10,mg/l,
-rh8hbhqDOAWPTgdwhnza,YWdTUjUfXNUpbOS7f4u6DDhIrME2,phosphate,2022-05-17 07:55:00,River Kelvin,Planet Patrol,55.8697054,-4.2887678,Scotland,G12 8QQ,Glasgow City,Scotland,,0,ppb,,,,,
 milSqHoSUZCuQEkdW5lF,YWdTUjUfXNUpbOS7f4u6DDhIrME2,coliforms,2022-05-17 07:55:00,River Kelvin,Planet Patrol,55.8692284,-4.2882297,Scotland,G3 7TA,Glasgow City,Scotland,True,,,,,,,
+rh8hbhqDOAWPTgdwhnza,YWdTUjUfXNUpbOS7f4u6DDhIrME2,phosphate,2022-05-17 07:55:00,River Kelvin,Planet Patrol,55.8697054,-4.2887678,Scotland,G12 8QQ,Glasgow City,Scotland,,0,ppb,,,,,
 FN5n2SWJnfaX5shTHbUm,PSSKRYlOpXWCpdLHpkhwYL0hjky2,coliforms,2022-05-17 14:39:00,Kingston Brook,Planet Patrol,52.8349145,-1.1839627,East Midlands,LE12 6HJ,Rushcliffe,England,True,,,,,,,
 UwzsDpo89PTrgpnR56JE,A1TYfF41pBfNjSkKktOfrCpx62a2,phosphate,2022-05-17 15:52:37,River cam,Planet Patrol,52.2009635,0.1160434,East of England,CB2 1RS,Cambridge,England,,500,ppb,,,,,
 KkMovTnwc3raILrnMTTX,A1TYfF41pBfNjSkKktOfrCpx62a2,nitrate,2022-05-17 15:55:35,River cam,Planet Patrol,52.2009635,0.1160434,East of England,CB2 1RS,Cambridge,England,,,,1,mg/l,50,mg/l,
@@ -699,8 +699,8 @@ VjPHD53hIDb1TnOQvvVU,igfRcTWHvnXTKuCqefkZth3ACom2,nitrate,2022-06-12 18:00:00,Ed
 Z8ZkjcjIP5IraqbMJ7a7,n6BMLOeiFdXXQLsSUDR8dCfWQ9U2,phosphate,2022-06-12 18:01:50,River mole,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,500,ppb,,,,,
 6inzMoEW4ytYQVJ2Iyci,n6BMLOeiFdXXQLsSUDR8dCfWQ9U2,nitrate,2022-06-12 18:04:03,River mole,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,,,0,mg/l,250,mg/l,
 z6uixnmluaw9jXENpnVx,igfRcTWHvnXTKuCqefkZth3ACom2,phosphate,2022-06-12 18:05:00,Edinburgh Canal,Planet Patrol,55.9330171,-3.2253955,Scotland,EH11 1NJ,City of Edinburgh,Scotland,,0,ppb,,,,,
-9V3hGWgHtisLObJcVPXl,igfRcTWHvnXTKuCqefkZth3ACom2,ph,2022-06-12 18:10:00,Edinburgh Canal,Planet Patrol,55.9330237,-3.225426,Scotland,EH11 1NJ,City of Edinburgh,Scotland,,,,,,,,6.5
 EhAYnHXbiue3ptKmU9m5,igfRcTWHvnXTKuCqefkZth3ACom2,coliforms,2022-06-12 18:10:00,Edinburgh Canal,Planet Patrol,55.9330277,-3.2254098,Scotland,EH11 1NJ,City of Edinburgh,Scotland,True,,,,,,,
+9V3hGWgHtisLObJcVPXl,igfRcTWHvnXTKuCqefkZth3ACom2,ph,2022-06-12 18:10:00,Edinburgh Canal,Planet Patrol,55.9330237,-3.225426,Scotland,EH11 1NJ,City of Edinburgh,Scotland,,,,,,,,6.5
 6kv8cTOSyCoAU6NxbqE0,QdiihUzERmaqq2p0tMI3RNrfYTm2,nitrate,2022-06-12 18:30:39,River Stour Kent,Planet Patrol,51.32326740261251,1.209430924631557,South East,CT3 4BP,Canterbury,England,,,,1,mg/l,100,mg/l,
 r22yTgg4kXgKT38COL00,QdiihUzERmaqq2p0tMI3RNrfYTm2,phosphate,2022-06-12 18:32:01,"River stour, kent",Planet Patrol,51.323279881219186,1.209370344943873,South East,CT3 4BP,Canterbury,England,,500,ppb,,,,,
 NZcxdFdSDAe6yxjCLjpZ,QdiihUzERmaqq2p0tMI3RNrfYTm2,ph,2022-06-12 18:33:09,"River Stour, kent",Planet Patrol,51.32341861808858,1.2086946178141083,South East,CT3 4BP,Canterbury,England,,,,,,,,6.5
@@ -820,8 +820,8 @@ WdyjWRWVZBq93i76cdH7,gzv7DIkp2WboN6hMrcASSSHpbhI2,coliforms,2022-06-17 09:10:33,
 JsvjDCxAzyBd6NbsMq69,3PXwXH9iFEeyNVKVudGZW0lugoN2,coliforms,2022-06-18 08:43:00,River Hamble,Planet Patrol,50.8962349,-1.2890972,South East,SO31 7GW,Fareham,England,False,,,,,,,
 NfHAwILwY1oBNC0F55Nv,LaewYpggt0P9WZhcvNncSReyevI3,nitrate,2022-06-22 05:23:00,River Thames,Planet Patrol,51.410983333333334,-0.36542,South East,KT8 1TJ,Elmbridge,England,,,,5,mg/l,0,mg/l,
 TUH3PFcZB8Kx5OK4zIAM,LaewYpggt0P9WZhcvNncSReyevI3,ph,2022-06-22 05:25:00,River Thames,Planet Patrol,51.41099166666667,-0.3654033333333333,South East,KT8 1TJ,Elmbridge,England,,,,,,,,6.5
-Aylo1GIPCHTUfZ7jaHM7,LaewYpggt0P9WZhcvNncSReyevI3,phosphate,2022-06-22 05:26:00,River Thames,Planet Patrol,51.41113333333333,-0.3655083333333333,South East,KT8 1TJ,Elmbridge,England,,500,ppb,,,,,
 6tKeRqkksuDaz65igLkt,LaewYpggt0P9WZhcvNncSReyevI3,coliforms,2022-06-22 05:26:00,River Thames,Planet Patrol,51.410995,-0.36541333333333337,South East,KT8 1TJ,Elmbridge,England,True,,,,,,,
+Aylo1GIPCHTUfZ7jaHM7,LaewYpggt0P9WZhcvNncSReyevI3,phosphate,2022-06-22 05:26:00,River Thames,Planet Patrol,51.41113333333333,-0.3655083333333333,South East,KT8 1TJ,Elmbridge,England,,500,ppb,,,,,
 vHQ0d2RWnek4yuMYEwxI,gJsrT0P8UFSvNuZHl4zGIPOCw6n2,nitrate,2022-06-22 18:07:00,Hatherley Brook,Planet Patrol,51.8875417,-2.0951471,South West,GL51 3AJ,Cheltenham,England,,,,0,mg/l,25,mg/l,
 0poyFPVrNHIIMeeGagoh,gJsrT0P8UFSvNuZHl4zGIPOCw6n2,phosphate,2022-06-22 18:09:00,Hatherley Brook,Planet Patrol,51.887549,-2.095136,South West,GL51 3AJ,Cheltenham,England,,100,ppb,,,,,
 cGOVeJXB8DNMyC2Y5ray,gJsrT0P8UFSvNuZHl4zGIPOCw6n2,ph,2022-06-22 18:15:54,Hatherley Brook,Planet Patrol,51.8870437,-2.095386,South West,GL50 2DS,Cheltenham,England,,,,,,,,7
@@ -829,8 +829,8 @@ YfU33LcE59E3CHb6B3F8,65HDyNVqg7RM4lCuVfThAEt8Tlx1,nitrate,2022-06-24 09:18:00,Ri
 h6WMSqA8uDbXUVFINmMV,65HDyNVqg7RM4lCuVfThAEt8Tlx1,phosphate,2022-06-24 09:20:00,River Thames,Planet Patrol,51.54665833333333,-0.8381666666666666,South East,SL7 2HB,Buckinghamshire,England,,200,ppb,,,,,
 HiMjo6dNaAmsBDqB49F8,65HDyNVqg7RM4lCuVfThAEt8Tlx1,ph,2022-06-24 09:21:00,River Thames,Planet Patrol,51.546886666666666,-0.8388783333333334,South East,SL7 2ER,Buckinghamshire,England,,,,,,,,7.5
 rPA3kH7zNlw8Y3nRRO5F,65HDyNVqg7RM4lCuVfThAEt8Tlx1,coliforms,2022-06-24 09:25:00,River Thames,Planet Patrol,51.54664666666667,-0.8391283333333334,South East,SL7 2ER,Buckinghamshire,England,True,,,,,,,
-pbvPkakXYPVGYBAb25Ex,26ex6s0YSJcnHRDb79VpWbDnqTW2,ph,2022-06-25 08:30:00,River Trent Essex bridge,Planet Patrol,52.800713333333334,-2.0090388833333335,West Midlands,ST18 0ST,Stafford,England,,,,,,,,7
 omqMSVrnc0DW4vuJ4yR2,26ex6s0YSJcnHRDb79VpWbDnqTW2,coliforms,2022-06-25 08:30:00,River Trent Essex bridge,Planet Patrol,52.80067833333333,-2.0089333333333332,West Midlands,ST18 0ST,Stafford,England,True,,,,,,,
+pbvPkakXYPVGYBAb25Ex,26ex6s0YSJcnHRDb79VpWbDnqTW2,ph,2022-06-25 08:30:00,River Trent Essex bridge,Planet Patrol,52.800713333333334,-2.0090388833333335,West Midlands,ST18 0ST,Stafford,England,,,,,,,,7
 paB8tiS5gAgFis6lFJtq,26ex6s0YSJcnHRDb79VpWbDnqTW2,nitrate,2022-06-25 08:30:00,River Trent Essex bridge,Planet Patrol,52.800686666666664,-2.0090333333333334,West Midlands,ST18 0ST,Stafford,England,,,,0,mg/l,100,mg/l,
 oHeI36f7tGpVc1ZYMymI,26ex6s0YSJcnHRDb79VpWbDnqTW2,phosphate,2022-06-25 08:33:00,River Trent Essex bridge,Planet Patrol,52.800666666666665,-2.0090333333333334,West Midlands,ST18 0ST,Stafford,England,,300,ppb,,,,,
 tf7tRC2ISquxiM4UFmKt,xjOvw2mOFrQadxExn2XXtATc3es2,coliforms,2022-06-25 13:40:00,Upper river ivel,Planet Patrol,51.99298,-0.18783833333333336,East of England,SG7 5BU,North Hertfordshire,England,True,,,,,,,
@@ -946,15 +946,15 @@ QnYCDvd8PAph5RP92eNV,ERFtPMiLHSgWmSeVjJKUJud2qJ32,phosphate,2022-07-05 07:46:44,
 jpvF3641rzI49UgJUzEN,ERFtPMiLHSgWmSeVjJKUJud2qJ32,ph,2022-07-05 07:47:32,Bristol Feeder Canal,Planet Patrol,51.4521938,-2.5975223,South West,BS1 5TX,"Bristol, City of",England,,,,,,,,7
 eT4gegAoT9LzL9fvOEs1,65HDyNVqg7RM4lCuVfThAEt8Tlx1,nitrate,2022-07-08 08:20:00,River Thames,Planet Patrol,51.54670333333333,-0.838005,South East,SL7 2HB,Buckinghamshire,England,,,,0,mg/l,50,mg/l,
 qLksh5wEnrCqjJaEf5fP,65HDyNVqg7RM4lCuVfThAEt8Tlx1,phosphate,2022-07-08 08:23:00,River Thamed,Planet Patrol,51.54662833333333,-0.839225,South East,SL7 2ER,Buckinghamshire,England,,200,ppb,,,,,
-UOWIqWQfZhmCPOy31KyZ,65HDyNVqg7RM4lCuVfThAEt8Tlx1,ph,2022-07-08 08:24:00,River Thames,Planet Patrol,51.546695,-0.8380449999999999,South East,SL7 2HB,Buckinghamshire,England,,,,,,,,8
 f2hQxR50NHk92FdYv1I5,65HDyNVqg7RM4lCuVfThAEt8Tlx1,coliforms,2022-07-08 08:24:00,River Thames,Planet Patrol,51.546661666666665,-0.839275,South East,SL7 2ER,Buckinghamshire,England,True,,,,,,,
+UOWIqWQfZhmCPOy31KyZ,65HDyNVqg7RM4lCuVfThAEt8Tlx1,ph,2022-07-08 08:24:00,River Thames,Planet Patrol,51.546695,-0.8380449999999999,South East,SL7 2HB,Buckinghamshire,England,,,,,,,,8
 qqN0OzEeGtph3WxuA8UT,maJ8dFMsj7a1V9tpbWSWNYVJhws1,coliforms,2022-07-08 14:29:00,River Test,Planet Patrol,,,,,,,True,,,,,,,
 vwugAZi7v6h6IyvcLj1Y,maJ8dFMsj7a1V9tpbWSWNYVJhws1,phosphate,2022-07-08 14:39:49,River Test,Planet Patrol,50.9478209,-1.5016878,South East,SO16 0YE,Test Valley,England,,0,ppb,,,,,
 BPVjiJqAVpf18onmAltg,maJ8dFMsj7a1V9tpbWSWNYVJhws1,ph,2022-07-08 14:43:21,River Test,Planet Patrol,50.9588485,-1.4962029,South East,SO51 9LF,Test Valley,England,,,,,,,,7
 qZEtv6jKl14LORE9HHCJ,maJ8dFMsj7a1V9tpbWSWNYVJhws1,nitrate,2022-07-08 14:45:58,River Test,Planet Patrol,50.9588485,-1.4962029,South East,SO51 9LF,Test Valley,England,,,,1,mg/l,50,mg/l,
+Pxj5h2ZhGtFoorzRuGVK,LaewYpggt0P9WZhcvNncSReyevI3,coliforms,2022-07-09 05:30:00,River Thames,Planet Patrol,51.41097166666667,-0.365425,South East,KT8 1TJ,Elmbridge,England,True,,,,,,,
 OrmKbOiK7XZeSyaoFtDh,LaewYpggt0P9WZhcvNncSReyevI3,ph,2022-07-09 05:30:00,River Thames,Planet Patrol,51.4114618,-0.3644913,South East,KT8 1TN,Elmbridge,England,,,,,,,,6.5
 pk5ZPH5dS47QYkMLrxsg,LaewYpggt0P9WZhcvNncSReyevI3,phosphate,2022-07-09 05:30:00,River Thames,Planet Patrol,51.3672984111281,-0.46000387156497974,South East,KT13 8UT,Elmbridge,England,,500,ppb,,,,,
-Pxj5h2ZhGtFoorzRuGVK,LaewYpggt0P9WZhcvNncSReyevI3,coliforms,2022-07-09 05:30:00,River Thames,Planet Patrol,51.41097166666667,-0.365425,South East,KT8 1TJ,Elmbridge,England,True,,,,,,,
 PXB0MMparehDEAEeih7O,3PXwXH9iFEeyNVKVudGZW0lugoN2,ph,2022-07-09 08:02:00,River Hamble,Planet Patrol,50.896359,-1.2889849,South East,SO31 7GW,Fareham,England,,,,,,,,6.5
 XshGrgPrdfIVvcVqNnLg,3PXwXH9iFEeyNVKVudGZW0lugoN2,coliforms,2022-07-09 08:03:00,River Hamble,Planet Patrol,50.8963014,-1.2890187,South East,SO31 7GW,Fareham,England,False,,,,,,,
 CQvoqOxfFQbuqcbx6PnQ,3PXwXH9iFEeyNVKVudGZW0lugoN2,nitrate,2022-07-09 08:06:00,River Hamble,Planet Patrol,50.8962399,-1.2889947,South East,SO31 7GW,Fareham,England,,,,1,mg/l,10,mg/l,
@@ -1516,9 +1516,9 @@ dQYT9phPuf6gFRlmJtAb,v5uUSOh1kaagyWVTBDPyuK0OlpJ3,coliforms,2023-10-04 13:30:00,
 Wz1tZQlEpfK79jzgr6bB,CLTxMzkyOzXhBLWtq4xKTRumPZb2,nitrate,2023-10-04 16:36:26,Lancaster canal,Planet Patrol,53.768375244626604,-2.723898755745428,North West,PR2 2SY,Preston,England,,,,0,mg/l,0,mg/l,
 tw1pEvWNITbCTTTwLux5,CLTxMzkyOzXhBLWtq4xKTRumPZb2,phosphate,2023-10-04 16:39:12,Lancaster canal,Planet Patrol,53.76843093694472,-2.7238692944586154,North West,PR2 2SY,Preston,England,,300,ppb,,,,,
 Bk9kEasaAauJYsZxxg1p,CLTxMzkyOzXhBLWtq4xKTRumPZb2,ph,2023-10-04 17:33:21,Lancaster canal,Planet Patrol,53.768389627721284,-2.723891826782535,North West,PR2 2SY,Preston,England,,,,,,,,6
+Ef3HR7r7Ixn3PzA3RCEO,BT38WDNW5af2Zj23OMoUe4Gh0GA2,coliforms,2023-10-05 14:45:00,Lancaster canal,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,True,,,,,,,
 owtBaN3WZkq9xof1NBPD,BT38WDNW5af2Zj23OMoUe4Gh0GA2,ph,2023-10-05 14:45:00,Lancaster canal,Planet Patrol,53.8501315,-2.7478498,North West,PR3 0RE,Wyre,England,,,,,,,,2
 ORzCfVZVO2gz7u3wnPmK,BT38WDNW5af2Zj23OMoUe4Gh0GA2,phosphate,2023-10-05 14:45:00,Lancaster canal,Planet Patrol,53.8500813,-2.7478884,North West,PR3 0RE,Wyre,England,,0,ppb,,,,,
-Ef3HR7r7Ixn3PzA3RCEO,BT38WDNW5af2Zj23OMoUe4Gh0GA2,coliforms,2023-10-05 14:45:00,Lancaster canal,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,True,,,,,,,
 gwwYVwHQ867wft6vOisb,BT38WDNW5af2Zj23OMoUe4Gh0GA2,nitrate,2023-10-05 14:45:00,Lancaster canal,Planet Patrol,53.850417,-2.7475636,North West,PR3 0RE,Wyre,England,,,,0,mg/l,0,mg/l,
 M6cUySUAkvJViTQV7Sjo,CLTxMzkyOzXhBLWtq4xKTRumPZb2,coliforms,2023-10-05 15:10:00,Lancaster canal,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,False,,,,,,,
 uwVsGOPbvGIGLWT7CviI,qiiKwFObCCRaV2VuUxmsniJfWQK2,nitrate,2023-10-05 17:15:00,Lancaster Canal,Planet Patrol,53.7847586,-2.8133011,North West,PR4 0ZH,Fylde,England,,,,1,mg/l,10,mg/l,
@@ -1600,9 +1600,9 @@ vrvPPEnAiwBY1BeW8zZL,3Yjv3lPuK2ax6weO8IJKBqCwb6m1,nitrate,2023-12-10 13:27:06,Cl
 LgXVMo79Vgq6e6bl64hQ,3Yjv3lPuK2ax6weO8IJKBqCwb6m1,phosphate,2023-12-10 13:28:49,Clipstone Brook,Planet Patrol,51.9122371,-0.6617037,East of England,LU7 1SG,Central Bedfordshire,England,,100,ppb,,,,,
 6HGIiI5H8oNR2teXw9CC,3Yjv3lPuK2ax6weO8IJKBqCwb6m1,ph,2023-12-10 13:29:40,Clipstone Brook,Planet Patrol,51.9122194,-0.6617334,East of England,LU7 1SG,Central Bedfordshire,England,,,,,,,,6
 IBGAEA3ZVGVPQmnzPEw2,b71VyJx666Tms0js3fDXId0tkZu1,temperature,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8504325,-2.5881788,South West,GL17 9NN,Forest of Dean,England,,,,,,,,
+OGbh9g4wbiOeFZwNLDhU,b71VyJx666Tms0js3fDXId0tkZu1,coliforms,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8504203,-2.5881717,South West,GL17 9NN,Forest of Dean,England,True,,,,,,,
 e6A1ASMSeYy7O0d8eRvp,b71VyJx666Tms0js3fDXId0tkZu1,ph,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8503913,-2.588177,South West,GL17 9NN,Forest of Dean,England,,,,,,,,5
 PdXXvAIIpIzoOyF2PMJ2,b71VyJx666Tms0js3fDXId0tkZu1,phosphate,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8503952,-2.5881863,South West,GL17 9NN,Forest of Dean,England,,100,ppb,,,,,
-OGbh9g4wbiOeFZwNLDhU,b71VyJx666Tms0js3fDXId0tkZu1,coliforms,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8504203,-2.5881717,South West,GL17 9NN,Forest of Dean,England,True,,,,,,,
 e5wIG0Ap9Pv01f5ndc4l,b71VyJx666Tms0js3fDXId0tkZu1,nitrate,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8503944,-2.5881801,South West,GL17 9NN,Forest of Dean,England,,,,1,mg/l,25,mg/l,
 tghDVtjQqdvyY2sJ46Lv,DGemYgxI5iSURCKuqc3AaoHMZ472,ph,2023-12-13 14:22:24,River Mole,Planet Patrol,51.3679163,-0.3791227,South East,KT12 4LL,Elmbridge,England,,,,,,,,6
 K4Ok9z4gCQkISM2jsfCC,DGemYgxI5iSURCKuqc3AaoHMZ472,phosphate,2023-12-13 14:30:16,River Mole,Planet Patrol,51.3679964,-0.379058,South East,KT12 4LL,Elmbridge,England,,200,ppb,,,,,
@@ -1902,24 +1902,24 @@ o2vVNAMqEwVo7n5abW40,hBLi0iHtDJRFihff2nM3sLfB1oi2,ph,2024-11-25 11:51:45,River T
 Mzv34Hhfm1ZsqZ3rDTzv,VIkZvmqc1ye5lFD6rJxwpukhSAA2,phosphate,2024-11-28 11:00:00,River Trent,Planet Patrol,52.92508,-1.1650555,East Midlands,NG11 7GD,Nottingham,England,,200,ppb,,,,,
 XCZphCuPweQsuNaqdKI2,J37TH1tG7nY2rdv70M3as2p9bWm2,temperature,2024-12-22 13:24:45,testuser@pokemail.net,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,,,,,,,
 ixLFpNAmdaJe4eD5NMFH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752246,-3.1780868,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,
+lkoq8wZFItkMs9QAnBQJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752032,-3.1780876,Scotland,EH6 5LW,City of Edinburgh,Scotland,True,,,,,,,
 kHq89uBJ9QVNefmZxvzc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.975242,-3.1780801,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,5
 AcBPDFMpXmJ0h04EeZkR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752233,-3.1780655,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
-lkoq8wZFItkMs9QAnBQJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752032,-3.1780876,Scotland,EH6 5LW,City of Edinburgh,Scotland,True,,,,,,,
 9FjsW3Xc4yGq8O8wpf3J,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752152,-3.1780798,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 7xE3SnNgzaqj62R6z1Fj,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757648,-3.1703753,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
+SFBtWHBOYaPouSciKybp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757641,-3.1703927,Scotland,EH6 6RA,City of Edinburgh,Scotland,True,,,,,,,
 f8xYEzVUqZcymWsIWLTZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757667,-3.1703818,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,5
 wbhgyrEL4Vr11lcXzY9W,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757878,-3.1703774,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,
-SFBtWHBOYaPouSciKybp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757641,-3.1703927,Scotland,EH6 6RA,City of Edinburgh,Scotland,True,,,,,,,
 1DxrQMqmgmlv2GWlCGdW,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757695,-3.1703977,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 ay8QqXugpHqF8HGzm3EO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975234,-3.1781097,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,
+XzirHRPg4oYrvhOFORTB,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975,-3.1777777777777776,Scotland,EH6 5LW,City of Edinburgh,Scotland,True,,,,,,,
 HX94qRIukAapGObX3lKN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.9752503,-3.1780907,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6
 f9qpclIOnleaVn6wDeK6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975222,-3.1780939,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
-XzirHRPg4oYrvhOFORTB,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975,-3.1777777777777776,Scotland,EH6 5LW,City of Edinburgh,Scotland,True,,,,,,,
 5XbZwwXTo4rnyjyT5NWS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.9752798,-3.1781413,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 xkBC56kUCNLXhYUfGFvE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757922,-3.1703698,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
+YLFxGa32Rv7DFpQvWcTg,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-02-21 14:40:00,Water of Leith,Simplex Easy Coliform Bacteria Water Test,55.975833333333334,-3.1705555555555556,Scotland,EH6 6LF,City of Edinburgh,Scotland,False,,,,,,,
 z6Jg8ZBesFrpuONlgN7p,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757737,-3.1703726,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6
 iQzLMBx2VCwoxiqndh4I,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9758074,-3.1703829,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,
-YLFxGa32Rv7DFpQvWcTg,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-02-21 14:40:00,Water of Leith,Simplex Easy Coliform Bacteria Water Test,55.975833333333334,-3.1705555555555556,Scotland,EH6 6LF,City of Edinburgh,Scotland,False,,,,,,,
 CXEt81Ub8CGleS3NvKUh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757677,-3.1703922,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 sjKmOm0pecrUUrxH3uxR,LXbDh2sIDghYw8dUUZFQYZ3Ltf23,nitrate,2025-03-18 09:05:00,Water of Leith Basins,Planet Patrol,55.9751825,-3.178093,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 5L6oBG424ncS16cd5LsN,LXbDh2sIDghYw8dUUZFQYZ3Ltf23,phosphate,2025-03-18 09:06:00,Water of Leith Basins,Planet Patrol,55.9751931,-3.1780681,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
@@ -2009,13 +2009,13 @@ csnfDmOP988R12oMywDN,kx0G4UqZ61cYXPype2NL5KgYA9v1,coliforms,2025-06-02 09:41:02,
 ID6KXluOR8v6vZ3n1wJ4,WFGnGlqMGndcAU3HDnRJmYYZk3c2,coliforms,2025-06-02 14:39:49,Limehouse Cut,Planet Patrol,51.56702500528274,-0.06260128082149688,London,N16 6JJ,Hackney,England,True,,,,,,,
 3sxbOWva4zFBrhC9N4Oq,zel7mCtFeuX82ZBjNBxqPdzs7mp1,coliforms,2025-06-02 16:01:09,Limehouse Cut,Planet Patrol,51.49377471327396,-0.1478010239429052,London,SW1W 9SA,Westminster,England,False,,,,,,,
 sGmUPibEuNHS3HMdLrvs,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9752185,-3.1780973,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,
+a8qCdQ75k7GXv5hStUU1,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-07-04 13:15:00,Water of Leith,Simplex Easy Bacteria Water Test Kit,55.9782166,-3.1709595,Scotland,EH6 6QA,City of Edinburgh,Scotland,False,,,,,,,
 4FR4MaRYUa53rOL5ydfR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9752255,-3.178073,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6
 thdguRxYDPy2LyiYmvs5,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9751916,-3.1780827,Scotland,EH6 5LW,City of Edinburgh,Scotland,,100,ppb,,,,,
-a8qCdQ75k7GXv5hStUU1,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-07-04 13:15:00,Water of Leith,Simplex Easy Bacteria Water Test Kit,55.9782166,-3.1709595,Scotland,EH6 6QA,City of Edinburgh,Scotland,False,,,,,,,
 q7tUv0UWXB8NSKoAjqrQ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9751977,-3.1780854,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,
 Cl5wcaixCNd0SJNF0LAD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757955,-3.1703978,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
-BKfBZjkWpE2nUsMPqcXw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757729,-3.1703946,Scotland,EH6 6RA,City of Edinburgh,Scotland,,100,ppb,,,,,
 EjBgYkiwaacZW0eo8TlC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-07-04 13:45:00,Water of Leith,Simplex Easy Bacteria Water Test Kit,55.9780107,-3.1701449,Scotland,EH6 6QA,City of Edinburgh,Scotland,False,,,,,,,
+BKfBZjkWpE2nUsMPqcXw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757729,-3.1703946,Scotland,EH6 6RA,City of Edinburgh,Scotland,,100,ppb,,,,,
 vFEP7EFNxlthIi1mdpcw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757848,-3.1704015,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,
 4pbtChzWcjSvYq0Hn6em,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-07-04 14:45:00,Water of Leith,Planet Patrol,55.9758236,-3.1704377,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6
 8E5ve71g4Nd6jinMm8On,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-07-21 21:00:00,Water of Leith,Planet Patrol,55.9751458,-3.1776619,Scotland,EH6 5LW,City of Edinburgh,Scotland,False,,,,,,,
@@ -2049,8 +2049,8 @@ vrRPpw6hXzXaj2tAJ6eh,PL61GJBEW9Xmv1CL3e4YLwUaMjq1,coliforms,2025-09-13 21:50:49,
 5XrFyuDQGCpFSmpQtIsa,zAbZQpVhDre64eudHgjMpkJzPO73,phosphate,2025-09-14 11:13:00,shenfield common pond,Planet Patrol,51.6150757,0.3128096,East of England,CM15 8TD,Brentwood,England,,0,ppb,,,,,
 jZ78bjRhplUK6s4d9JAG,zAbZQpVhDre64eudHgjMpkJzPO73,ph,2025-09-14 11:14:00,shenfield common pond,Planet Patrol,51.6150713,0.3128032,East of England,CM15 8TD,Brentwood,England,,,,,,,,6.5
 vM7x1kKyjFDDdJlXs2Ed,zAbZQpVhDre64eudHgjMpkJzPO73,temperature,2025-09-14 11:20:00,shenfield common pond,Planet Patrol,51.6150623,0.3127669,East of England,CM15 8TD,Brentwood,England,,,,,,,,
-7ASpCuRHdRy4YNcc8kKC,zAbZQpVhDre64eudHgjMpkJzPO73,ph,2025-09-14 11:23:00,mill pond,Planet Patrol,51.6168888,0.3095927,East of England,CM14 4JG,Brentwood,England,,,,,,,,7
 EjXbFAG3WEo7fIPXiP1C,zAbZQpVhDre64eudHgjMpkJzPO73,coliforms,2025-09-14 11:23:00,Shenfield common pond,Planet Patrol,51.6172234,0.3096508,East of England,CM14 4JG,Brentwood,England,True,,,,,,,
+7ASpCuRHdRy4YNcc8kKC,zAbZQpVhDre64eudHgjMpkJzPO73,ph,2025-09-14 11:23:00,mill pond,Planet Patrol,51.6168888,0.3095927,East of England,CM14 4JG,Brentwood,England,,,,,,,,7
 UFNvcX86GVcc4HnUJwJ2,zAbZQpVhDre64eudHgjMpkJzPO73,phosphate,2025-09-14 11:27:00,mill pond,Planet Patrol,51.6169456,0.3096739,East of England,CM14 4JG,Brentwood,England,,0,ppb,,,,,
 DKTnR85kdj3jFN7MfhZY,zAbZQpVhDre64eudHgjMpkJzPO73,temperature,2025-09-14 11:39:00,Shenfield Common Pond,Planet Patrol,51.6172189,0.3095915,East of England,CM14 4JG,Brentwood,England,,,,,,,,
 Jtg58X55LTnWaz0KT4Px,zAbZQpVhDre64eudHgjMpkJzPO73,temperature,2025-09-14 11:39:00,mill pond,Planet Patrol,51.6169043,0.3096508,East of England,CM14 4JG,Brentwood,England,,,,,,,,
@@ -2063,8 +2063,8 @@ aCJUMMEa4CJIVwnhXdp5,9XpD1NlRneff1sbeXifgdpB7OQM2,phosphate,2025-09-14 12:11:00,
 rmwwoJIV5pQaknXTyJ3D,9XpD1NlRneff1sbeXifgdpB7OQM2,ph,2025-09-14 12:13:00,River Almond,Planet Patrol,55.9626521,-3.3247216,Scotland,EH4 8AP,City of Edinburgh,Scotland,,,,,,,,5
 UBeiAAk6WV1yHlPPSiSa,9XpD1NlRneff1sbeXifgdpB7OQM2,temperature,2025-09-14 12:14:42,River Almond,Planet Patrol,55.9626684,-3.3247609,Scotland,EH4 8AP,City of Edinburgh,Scotland,,,,,,,,
 Prmgdqrw04HyR1oTqA9s,9XpD1NlRneff1sbeXifgdpB7OQM2,coliforms,2025-09-14 12:19:00,River Almond,Planet Patrol,,,,,,,False,,,,,,,
-2eH22G6ensJnsga5Wlel,jXMk4bYMnDdZMn7zpJ73kzBG8vR2,phosphate,2025-09-14 13:17:00,Tooting common pond,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,100,ppb,,,,,
 TdPYEvUrpdlYppO3gZeR,jXMk4bYMnDdZMn7zpJ73kzBG8vR2,coliforms,2025-09-14 13:17:00,Tooting common pond,Planet Patrol,51.43382,-0.14445,London,SW12 9HU,Wandsworth,England,True,,,,,,,
+2eH22G6ensJnsga5Wlel,jXMk4bYMnDdZMn7zpJ73kzBG8vR2,phosphate,2025-09-14 13:17:00,Tooting common pond,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,100,ppb,,,,,
 RMEUb8F2SACTSqJIheQN,jXMk4bYMnDdZMn7zpJ73kzBG8vR2,nitrate,2025-09-14 13:23:30,Tooting common pond,Planet Patrol,51.43378833333333,-0.14447216666666665,London,SW12 9HU,Wandsworth,England,,,,0,mg/l,0,mg/l,
 aaYQFM72m8QSvFQFjVwt,jXMk4bYMnDdZMn7zpJ73kzBG8vR2,ph,2025-09-14 13:25:58,Tooting common pond,Planet Patrol,51.4338319,-0.144511,London,SW12 9HU,Wandsworth,England,,,,,,,,6.5
 5fej4hNnimtgMtGgKhV8,jXMk4bYMnDdZMn7zpJ73kzBG8vR2,temperature,2025-09-14 13:29:00,Tooting common pond,Planet Patrol,51.4338134,-0.1445079,London,SW12 9HU,Wandsworth,England,,,,,,,,
@@ -2223,24 +2223,24 @@ Yxgkj4CptIR4WQEvwQVB,Ald2Afydr9ctvkib7sGsZJ7Znyq2,ph,2025-10-20 17:27:00,River B
 tdrAtV9jmu6pbOONXbnx,Ald2Afydr9ctvkib7sGsZJ7Znyq2,temperature,2025-10-20 17:35:00,River Brent,Planet Patrol,51.530258345121176,-0.31559845136308706,London,W5 1LS,Ealing,England,,,,,,,,
 XlfVsuU7aIZEPrgqmDug,Ald2Afydr9ctvkib7sGsZJ7Znyq2,coliforms,2025-10-21 17:45:00,River Brent,Planet Patrol,51.53017,-0.315475,London,W5 1LS,Ealing,England,True,,,,,,,
 4UDOCDA418cVYUDw8Tu1,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752815,-3.1781481,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,
+kQf3McL0T2E4movw75hL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 EjvotWMZdTmDNFPZMDnI,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752514,-3.1781017,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,5
 6USyGRYkybfY3E8N9MCJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752375,-3.1781242,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
-kQf3McL0T2E4movw75hL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 ZtoJD6E5btwPm18ukT59,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752295,-3.1781012,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 aubyEhCZe7s2RjZPpTwc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9750644,-3.1735183,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,
+hN9h8rBTMEmtvI9JFmVL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 1DhQ2BO1L9bLiLXrUWzW,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9749708,-3.1734414,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,5
 xwZBxWelEz8Fk3yGjSBf,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9750483,-3.1733914,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,
-hN9h8rBTMEmtvI9JFmVL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 e2OXVpQJye6qce3PtvRf,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9749378,-3.1734353,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,25,mg/l,
 Dgw6D9aQpxGnSEvaEGrA,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.975797,-3.1704159,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
+qfohVayhtBF43tsauEov,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 nKXc7lxSOqeW918xAfoR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.9757874,-3.1703771,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,5
 8DhEychIyyMOOZExjao2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.9757802,-3.1703812,Scotland,EH6 6RA,City of Edinburgh,Scotland,,100,ppb,,,,,
-qfohVayhtBF43tsauEov,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 yH8IsHlnsxPD2NTcRcG3,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.9757644,-3.1704151,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 itCL0aZzFvzUs9tBmAfR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764238,-3.1699855,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,
+Meve8z425pSZIE1911AT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 CsaS90WHZ1CffcCieTeh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764595,-3.170027,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,5
 BIW2COtGp5RutccAdF6a,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764263,-3.1700113,Scotland,EH6 6AL,City of Edinburgh,Scotland,,100,ppb,,,,,
-Meve8z425pSZIE1911AT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 jQX8PlmWPFT99tbuLQzB,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9762936,-3.1698505,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 YWnATx25JcG8a9STXvDi,zAbZQpVhDre64eudHgjMpkJzPO73,coliforms,2025-10-26 11:20:00,Shenfield Common Pond,Planet Patrol,51.6172587,0.309641,East of England,CM14 4JG,Brentwood,England,True,,,,,,,
 8oIznfD7AV8mbHSruxNV,zAbZQpVhDre64eudHgjMpkJzPO73,temperature,2025-10-26 11:25:00,Shenfield Common Pond,Planet Patrol,51.6172008,0.3096905,East of England,CM14 4JG,Brentwood,England,,,,,,,,
@@ -2255,9 +2255,9 @@ WNDt1FB93yrpWs5gkHHR,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,temperature,2025-10-26 16:30:4
 4wGMonoQ3uJoloKNK4pR,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,ph,2025-10-26 16:35:59,The Cut,Planet Patrol,51.507771375812986,-0.7064916641513205,South East,SL6 2AD,Windsor and Maidenhead,England,,,,,,,,6.5
 WJkBbkyoIFxoCAj8sptq,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,nitrate,2025-10-26 16:39:16,The Cut,Planet Patrol,51.50775637676133,-0.7065318749232088,South East,SL6 2AD,Windsor and Maidenhead,England,,,,0,mg/l,0,mg/l,
 qiyyX2knR60VJx3tnOBm,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,phosphate,2025-10-26 16:44:06,The Cut,Planet Patrol,51.50778685735773,-0.7065568016128626,South East,SL6 2AD,Windsor and Maidenhead,England,,0,ppb,,,,,
+11BggypuqaDiEaPiPSDo,YzEpNZQExGRY979ikRBSOZHVlp62,coliforms,2025-10-26 17:00:00,Inglewood Pond,Planet Patrol,56.1262387,-3.8065336,Scotland,FK10 2HT,Clackmannanshire,Scotland,False,,,,,,,
 cssmS5lnTtO1QMbNCQUV,YzEpNZQExGRY979ikRBSOZHVlp62,ph,2025-10-26 17:00:00,Inglewood Pond,Planet Patrol,56.1265364,-3.8068203,Scotland,FK10 2HT,Clackmannanshire,Scotland,,,,,,,,6
 Rp8RpmLwOD6QN0T3oxtc,YzEpNZQExGRY979ikRBSOZHVlp62,phosphate,2025-10-26 17:00:00,Inglewood Pond,Planet Patrol,56.126363,-3.8059676,Scotland,FK10 2HT,Clackmannanshire,Scotland,,0,ppb,,,,,
-11BggypuqaDiEaPiPSDo,YzEpNZQExGRY979ikRBSOZHVlp62,coliforms,2025-10-26 17:00:00,Inglewood Pond,Planet Patrol,56.1262387,-3.8065336,Scotland,FK10 2HT,Clackmannanshire,Scotland,False,,,,,,,
 PC5KSXPCaPVDR97qUNgm,YzEpNZQExGRY979ikRBSOZHVlp62,nitrate,2025-10-26 17:00:00,Inglewood Pond,Planet Patrol,56.1268053,-3.8060972,Scotland,FK10 2HT,Clackmannanshire,Scotland,,,,0,mg/l,0,mg/l,
 9DTLodUtQin4kK7St7GX,Ucr35AQLQTNXsFW0Ty7lu43dQB02,temperature,2025-10-27 14:33:29,New River,Planet Patrol,51.57375785021468,-0.09709297441557649,London,N4 1HN,Hackney,England,,,,,,,,
 EsYi6RTkDkYGaB7Jxxki,Ucr35AQLQTNXsFW0Ty7lu43dQB02,nitrate,2025-10-27 14:40:41,New River,Planet Patrol,51.57385388629659,-0.09705306657345888,London,N4 1HN,Hackney,England,,,,0,mg/l,0,mg/l,
@@ -2266,9 +2266,9 @@ oJrAyzsX4ZqJo0Wpznln,Ucr35AQLQTNXsFW0Ty7lu43dQB02,phosphate,2025-10-27 14:45:07,
 TOa2AG9VOVg2CPLfV8No,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,coliforms,2025-10-29 19:08:35,The cut,Planet Patrol,51.507736666666666,-0.7065216666666667,South East,SL6 2AD,Windsor and Maidenhead,England,True,,,,,,,
 0KQcjJjtBvDU7HwkaT8m,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3791168,-0.3453556,South East,KT10 9AU,Elmbridge,England,,,,,,,,
 coANGiNLGDUvVACOnhgj,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3791168,-0.3453556,South East,KT10 9AU,Elmbridge,England,,,,,,,,
+z4RILLAvViYNFBLfTMxd,OGSYgnKF7FPosRixawtcRUGu6xG3,coliforms,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.378332,-0.3457468,South East,KT10 9AP,Elmbridge,England,True,,,,,,,
 0i3OWrWCLjgWDV7RwBmu,OGSYgnKF7FPosRixawtcRUGu6xG3,ph,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3785396,-0.345524,South East,KT10 9AU,Elmbridge,England,,,,,,,,6.5
 8jwGwam3MGYYfHcVqjxy,OGSYgnKF7FPosRixawtcRUGu6xG3,phosphate,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3787258,-0.3455569,South East,KT10 9AU,Elmbridge,England,,0,ppb,,,,,
-z4RILLAvViYNFBLfTMxd,OGSYgnKF7FPosRixawtcRUGu6xG3,coliforms,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.378332,-0.3457468,South East,KT10 9AP,Elmbridge,England,True,,,,,,,
 KV4hZchVcG0aVeDOIqjU,OGSYgnKF7FPosRixawtcRUGu6xG3,nitrate,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3786218,-0.3458294,South East,KT10 9AP,Elmbridge,England,,,,0,mg/l,0,mg/l,
 rBu5N6ywyOOCpdsTDrkn,zL5mLP7BGAUBn4biMKv8YKgwcK82,coliforms,2025-11-03 12:48:00,Unknown stream,Planet Patrol,51.351261666666666,1.0600666666666667,South East,CT5 3NB,Canterbury,England,False,,,,,,,
 2o4E2B68avsrj0RLMWzr,zL5mLP7BGAUBn4biMKv8YKgwcK82,temperature,2025-11-03 12:54:55,Unknown stream,Planet Patrol,51.35124941254781,1.060095693164738,South East,CT5 3NB,Canterbury,England,,,,,,,,
@@ -2280,9 +2280,9 @@ eXlepVYBPYfUWUN3q5ZZ,Cl7O7OgR3PTL3hU4bCeGd7BJmqC3,phosphate,2025-11-05 14:50:37,
 Oqu05DyHGWy2Conwkc5j,Cl7O7OgR3PTL3hU4bCeGd7BJmqC3,nitrate,2025-11-05 14:52:27,River Thames,Planet Patrol,51.67003255610812,-1.270145080865339,South East,OX14 3NW,Vale of White Horse,England,,,,0,mg/l,0,mg/l,
 lNtDWg9vQz9AJMkiOtMC,Cl7O7OgR3PTL3hU4bCeGd7BJmqC3,temperature,2025-11-05 14:53:46,River Thames,Planet Patrol,51.67004197449654,-1.2702206958180435,South East,OX14 3NW,Vale of White Horse,England,,,,,,,,
 3XB1mOxfqMO7w4rTwYxu,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,temperature,2025-11-09 16:10:22,The Cut,Planet Patrol,51.50776629031849,-0.7064778711177006,South East,SL6 2AD,Windsor and Maidenhead,England,,,,,,,,
+yzvWt7siH0Nqba7bkXkV,YzEpNZQExGRY979ikRBSOZHVlp62,coliforms,2025-11-09 16:30:00,Inglewood Pond,Planet Patrol,56.1260524,-3.8061219,Scotland,FK10 2HT,Clackmannanshire,Scotland,False,,,,,,,
 cuSut4xogElS4Ani2noi,YzEpNZQExGRY979ikRBSOZHVlp62,ph,2025-11-09 16:30:00,Inglewood Pond,Planet Patrol,56.1261988,-3.8063251,Scotland,FK10 2HT,Clackmannanshire,Scotland,,,,,,,,6
 jVDVHBzMRdhfX13Q6twp,YzEpNZQExGRY979ikRBSOZHVlp62,phosphate,2025-11-09 16:30:00,Inglewood Pond,Planet Patrol,56.1265066,-3.807836,Scotland,FK10 2HW,Clackmannanshire,Scotland,,0,ppb,,,,,
-yzvWt7siH0Nqba7bkXkV,YzEpNZQExGRY979ikRBSOZHVlp62,coliforms,2025-11-09 16:30:00,Inglewood Pond,Planet Patrol,56.1260524,-3.8061219,Scotland,FK10 2HT,Clackmannanshire,Scotland,False,,,,,,,
 JffHof5bQjl5fqZcUbbg,YzEpNZQExGRY979ikRBSOZHVlp62,nitrate,2025-11-09 16:30:00,Inglewood Pond,Planet Patrol,56.1261854,-3.8056989,Scotland,FK10 2HT,Clackmannanshire,Scotland,,,,0,mg/l,0,mg/l,
 piqu0fJnCrkdRQbznzfE,NKEvNVaCGSg9s05vBNaxeAgvfk13,ph,2025-11-11 11:07:16,Bristol Marina,Planet Patrol,51.448665517988644,-2.6118272679524117,South West,BS1 6XB,"Bristol, City of",England,,,,,,,,6.5
 tAJtvVadnQ0C8uIfC2Zw,NKEvNVaCGSg9s05vBNaxeAgvfk13,phosphate,2025-11-11 11:18:25,Bristol Marina,Planet Patrol,51.448626256474206,-2.6118451139162584,South West,BS1 6XB,"Bristol, City of",England,,0,ppb,,,,,
@@ -2304,12 +2304,12 @@ A174tOJForXkbkz880mm,zL5mLP7BGAUBn4biMKv8YKgwcK82,ph,2025-11-17 10:22:46,Unknown
 pw8DyD7LBwoY4iyMzOrj,zL5mLP7BGAUBn4biMKv8YKgwcK82,coliforms,2025-11-17 10:59:00,Unknown stream,Planet Patrol,51.35124666666667,1.0600388333333333,South East,CT5 3NB,Canterbury,England,True,,,,,,,
 Gdf0QSzZNMRqaSiNkboq,zAbZQpVhDre64eudHgjMpkJzPO73,phosphate,2025-11-23 11:35:00,Shenfield Pond,Planet Patrol,51.6172208,0.3096182,East of England,CM14 4JG,Brentwood,England,,0,ppb,,,,,
 jM8mhi6MdWEKwyWW1ZKb,zAbZQpVhDre64eudHgjMpkJzPO73,nitrate,2025-11-23 11:41:00,Shenfield Pond,Planet Patrol,51.6172293,0.3096895,East of England,CM14 4JG,Brentwood,England,,,,0,mg/l,0,mg/l,
-B3G98cZ7ZQiddGvD8B8l,zAbZQpVhDre64eudHgjMpkJzPO73,ph,2025-11-23 11:43:00,Shenfield Pond,Planet Patrol,51.6172727,0.3096543,East of England,CM14 4JG,Brentwood,England,,,,,,,,7
 sTyXXWQWNqLL4UW6mf7r,zAbZQpVhDre64eudHgjMpkJzPO73,coliforms,2025-11-23 11:43:00,Shenfield Pond,Planet Patrol,51.6172949,0.3095829,East of England,CM14 4JG,Brentwood,England,True,,,,,,,
+B3G98cZ7ZQiddGvD8B8l,zAbZQpVhDre64eudHgjMpkJzPO73,ph,2025-11-23 11:43:00,Shenfield Pond,Planet Patrol,51.6172727,0.3096543,East of England,CM14 4JG,Brentwood,England,,,,,,,,7
 E2iyfk86Mzx8lx2WmoVW,zAbZQpVhDre64eudHgjMpkJzPO73,temperature,2025-11-23 11:49:00,Shenfield Pond,Planet Patrol,51.6171589,0.3095849,East of England,CM14 4JG,Brentwood,England,,,,,,,,
+s5z7JvETZQ0oRpX0usn4,YzEpNZQExGRY979ikRBSOZHVlp62,coliforms,2025-11-23 15:30:00,Inglewood Pond,Planet Patrol,56.126077,-3.8063736,Scotland,FK10 2HT,Clackmannanshire,Scotland,False,,,,,,,
 a5saUpK80QlowHWSXLE4,YzEpNZQExGRY979ikRBSOZHVlp62,ph,2025-11-23 15:30:00,Inglewood Pond,Planet Patrol,56.1261708,-3.8067264,Scotland,FK10 2HT,Clackmannanshire,Scotland,,,,,,,,6
 HpteKK49t8eigVtmIFMr,YzEpNZQExGRY979ikRBSOZHVlp62,phosphate,2025-11-23 15:30:00,Inglewood Pond,Planet Patrol,56.127564,-3.8065145,Scotland,FK10 2HN,Clackmannanshire,Scotland,,0,ppb,,,,,
-s5z7JvETZQ0oRpX0usn4,YzEpNZQExGRY979ikRBSOZHVlp62,coliforms,2025-11-23 15:30:00,Inglewood Pond,Planet Patrol,56.126077,-3.8063736,Scotland,FK10 2HT,Clackmannanshire,Scotland,False,,,,,,,
 VEsCICI8ivJE99dQqv7r,YzEpNZQExGRY979ikRBSOZHVlp62,nitrate,2025-11-23 15:30:00,Inglewood Pond,Planet Patrol,56.1262696,-3.8051262,Scotland,FK10 2HT,Clackmannanshire,Scotland,,,,0,mg/l,0,mg/l,
 d8nleFi09cfcufwzslZy,Ucr35AQLQTNXsFW0Ty7lu43dQB02,temperature,2025-11-25 14:07:20,New River,Planet Patrol,51.57375307051163,-0.09690772789633412,London,N4 1HN,Hackney,England,,,,,,,,
 ZgjhoPvfP4nG2J3mf7yT,Ucr35AQLQTNXsFW0Ty7lu43dQB02,ph,2025-11-25 14:10:23,New River,Planet Patrol,51.573795899796835,-0.09676999412486029,London,N4 1HN,Hackney,England,,,,,,,,7
@@ -2317,24 +2317,24 @@ pKOU3dzyWfDXKTYVjLmP,Ucr35AQLQTNXsFW0Ty7lu43dQB02,phosphate,2025-11-25 14:13:56,
 rjmYMZ6K6HborHFOV22i,Ucr35AQLQTNXsFW0Ty7lu43dQB02,nitrate,2025-11-25 14:18:00,New River,Planet Patrol,51.57381996179851,-0.09681826778926787,London,N4 1HN,Hackney,England,,,,0,mg/l,0,mg/l,
 2qbWVmKKs5VK1k47Py0v,Ucr35AQLQTNXsFW0Ty7lu43dQB02,coliforms,2025-11-25 14:25:00,New River,Planet Patrol,51.573813333333334,-0.09686383333333333,London,N4 1HN,Hackney,England,False,,,,,,,
 COY6qW7s7ynInHYX7uAL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752526,-3.1780978,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,
+8YElviMTrEcVwRxBh15H,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:15:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 2NBTvFXwYJOvM41y5lsr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752783,-3.1780486,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,5
 1bQPGQbn3aCS8G5sn6Lc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752374,-3.1781035,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
-8YElviMTrEcVwRxBh15H,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:15:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 wWjjJIxjrlORQY386bnt,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752021,-3.1780829,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,25,mg/l,
 fWEjFTM9vNHvHQoz1QKh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9749777,-3.1734636,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,
+hele3jGNLff0Yae32tfS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:30:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 SVCALvSyWGZ0RRxRAjcJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9749688,-3.1734452,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,5
 KnJqzaB4vkhagRGJqNYL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9750088,-3.1734998,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,
-hele3jGNLff0Yae32tfS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:30:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 J0PXYfmk9oSVUIcnw6Y0,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.975004,-3.1734741,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,
 oYIJDGgiwMeXuHXMO4cP,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758197,-3.1703636,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
+kmqSkUw85d11sAwLWXnV,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:45:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 CtDEKH5xdjTL6Z44DVtw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758117,-3.1704029,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,5
 rhwi7TVQ2kWcVKDO58ra,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758189,-3.170395,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,
-kmqSkUw85d11sAwLWXnV,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:45:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 f2FTBDwHDkKgHhPz3XlP,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758161,-3.1703773,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,
 IbeiZhgV7FeCCsWEAjCr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763103,-3.1698049,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,
+2F6tHWeTtGKNM13hrnas,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 15:00:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 2tSWU1DZTCWKCPwC8afN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763316,-3.1699195,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,5
 dzPlKhyL3yR30u1OglhG,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763376,-3.1698848,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,
-2F6tHWeTtGKNM13hrnas,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 15:00:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,
 G8zesvyRlHZnOM38KyLc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763089,-3.1698687,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,
 WBgRDYO7RyXJHcOYyzQ8,ES9GQPkYmQSnTqDmEL6V8TPYQaL2,nitrate,2025-12-03 13:03:32,Ghi,Planet Patrol,51.4813022,-0.0098838,London,SE10 9GG,Greenwich,England,,,,10,mg/l,50,mg/l,
 DE334bbBdSlBI4cmbDvF,Ucr35AQLQTNXsFW0Ty7lu43dQB02,temperature,2025-12-09 12:28:06,New River,Planet Patrol,51.573845577735575,-0.09714420041328155,London,N4 1HN,Hackney,England,,,,,,,,
@@ -2348,44 +2348,44 @@ y5tYK2gIy7qMdA48FjEL,OGSYgnKF7FPosRixawtcRUGu6xG3,ph,2025-12-14 09:47:00,River R
 nc7Pe66BLSLtDWMxmUNz,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-12-14 09:48:00,River Rythe,Planet Patrol,51.3784421,-0.3453447,South East,KT10 9AU,Elmbridge,England,,,,,,,,
 kRe6n1ObfY33qbmS2aMI,OGSYgnKF7FPosRixawtcRUGu6xG3,coliforms,2025-12-14 09:48:00,River Rythe,Planet Patrol,51.3784666,-0.3456439,South East,KT10 9AU,Elmbridge,England,True,,,,,,,
 alXc8O0FGOtYsv5llvxc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752718,-3.1781096,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,
+M9yTesRVj7HodHUiHdk8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 13:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 xVXMTRqwbCDqMw5MT7JN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.975242,-3.178107,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,7
 l53HwSjMGwMX8seBeBaK,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752912,-3.1780787,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
-M9yTesRVj7HodHUiHdk8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 13:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 rHXxjkcHgxth0U2iVlZZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752344,-3.1780754,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 3x4Br6yq7dBLtgtXHrw4,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9750646,-3.1734113,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,
+e1VK8SGgUFj6827BiK61,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 Gg5NpVk010DyWudMDKxy,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9750744,-3.1734931,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6
 m6x3Tu0HtbSVbFWlL4YF,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9749683,-3.1734826,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,
-e1VK8SGgUFj6827BiK61,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 H9Wk7OQHZrNtq4lMoOX2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9749701,-3.1734209,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 zue0uDnm21IobVFSxDjx,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758472,-3.1703973,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
+gOh4czvWrj0zl46McpFE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 BFJgWE1232cHmtam4rkw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758561,-3.1703932,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6
 UNzXlqIOytAjbJw4unTI,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758286,-3.1704337,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,
-gOh4czvWrj0zl46McpFE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 G3MadP41PzL04jW40cMu,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758217,-3.170403,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 i3o5d8g302o3OlyLYHFC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.976391,-3.1699286,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,
+JnUgIRSDlCwFF0oFNcgn,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 T2TRGJj0vQ8Qr01Z6iBN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.9763934,-3.1699432,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,6
 NGFJtkEt4mX7E6qdwh5j,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.9763419,-3.1698824,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,
-JnUgIRSDlCwFF0oFNcgn,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 faqCKkXbuQqXex4gQ1aC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.9763649,-3.1699005,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 TtILl5p0ZANFOyw7fNJc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.975262,-3.1780976,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,
+hak20oF6YlupnsBR7uLp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 PZnLlbAsAaXkvOrn0ABX,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.9752227,-3.1781018,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6
 sz1zx9FjSScp2GUb2Hc6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.9752178,-3.1781023,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,
-hak20oF6YlupnsBR7uLp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 qDOY2xtmNDr1DwAzo5cO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.9752312,-3.1781103,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 awGRpHBx8nhsdDkG4lGO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.975042,-3.1733936,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,
+OPAU7Qg0iV6tXiFehHhR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 NoNnHZhhM9TNI8Ae0CFL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.9750106,-3.1734373,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6
 MNB9BRRsqbCYjtorKGl6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.9749972,-3.1734252,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,
-OPAU7Qg0iV6tXiFehHhR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 GnbfyFjuTm0TvRmDPQ2T,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.9749913,-3.1733972,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,
 cBTJr1s9cUVCWCSCPTZw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9757894,-3.1704115,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,
+H7shf62LTqpvw0A9ZXnK,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 kWbESFgnud5ofa28LnmY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9758037,-3.1703957,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6
 WSmZpxPSrRBhgGiaPCrp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9758008,-3.1703842,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,
-H7shf62LTqpvw0A9ZXnK,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 PvkdX5Dv90gnLBhfP48J,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9758066,-3.1703753,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,
 dYM2G6jMyaqtKowirPel,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9764539,-3.1699265,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,
+iHy706xVLd3MtQfS9lfH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 7D2Wfp4SFfemMyhmtCu0,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9764323,-3.1699238,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,6
 jEWyZXS2Znxns9J8pDwD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9763529,-3.1698419,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,
-iHy706xVLd3MtQfS9lfH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,
 ibi4XES7jERZrRziIoEY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9762929,-3.169859,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,
 4Ei2QruixQluiOxWihJz,BUyqoom8vbfxYxT4eS0wCmZ9qI72,nitrate,2026-01-15 12:39:21,Test,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,,,0,mg/l,0,mg/l,
 QeneYnwMI5ixUwomcBvL,DgM4f2cGA3czDQKOkQE3AKRnk7g2,coliforms,2026-01-16 16:21:16,Dj,Planet Patrol,51.5343819,-0.0439333,London,E9 7HW,Hackney,England,True,,,,,,,
