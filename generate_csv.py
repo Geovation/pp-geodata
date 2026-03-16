@@ -114,6 +114,11 @@ reading_fields = [
         "name": "ph",
         "displayName": "pH Reading",
         "type": "number"
+    },
+    {
+        "name": "temperature",
+        "displayName": "Temperature",
+        "type": "number"
     }
 ]
 
