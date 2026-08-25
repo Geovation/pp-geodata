@@ -1599,8 +1599,8 @@ Ef5q1XjlyMA9naplI6FN,L0vvuouJRqO948KO9SUDxrWsDpv1,ph,2023-12-08 15:45:00,Lake,Pl
 vrvPPEnAiwBY1BeW8zZL,3Yjv3lPuK2ax6weO8IJKBqCwb6m1,nitrate,2023-12-10 13:27:06,Clipstone Brook,Planet Patrol,51.9126811,-0.6623196,East of England,LU7 1AD,Central Bedfordshire,England,,,,0,mg/l,50,mg/l,,
 LgXVMo79Vgq6e6bl64hQ,3Yjv3lPuK2ax6weO8IJKBqCwb6m1,phosphate,2023-12-10 13:28:49,Clipstone Brook,Planet Patrol,51.9122371,-0.6617037,East of England,LU7 1SG,Central Bedfordshire,England,,100,ppb,,,,,,
 6HGIiI5H8oNR2teXw9CC,3Yjv3lPuK2ax6weO8IJKBqCwb6m1,ph,2023-12-10 13:29:40,Clipstone Brook,Planet Patrol,51.9122194,-0.6617334,East of England,LU7 1SG,Central Bedfordshire,England,,,,,,,,6,
-IBGAEA3ZVGVPQmnzPEw2,b71VyJx666Tms0js3fDXId0tkZu1,temperature,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8504325,-2.5881788,South West,GL17 9NN,Forest of Dean,England,,,,,,,,,8.5
 OGbh9g4wbiOeFZwNLDhU,b71VyJx666Tms0js3fDXId0tkZu1,coliforms,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8504203,-2.5881717,South West,GL17 9NN,Forest of Dean,England,True,,,,,,,,
+IBGAEA3ZVGVPQmnzPEw2,b71VyJx666Tms0js3fDXId0tkZu1,temperature,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8504325,-2.5881788,South West,GL17 9NN,Forest of Dean,England,,,,,,,,,8.5
 e6A1ASMSeYy7O0d8eRvp,b71VyJx666Tms0js3fDXId0tkZu1,ph,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8503913,-2.588177,South West,GL17 9NN,Forest of Dean,England,,,,,,,,5,
 PdXXvAIIpIzoOyF2PMJ2,b71VyJx666Tms0js3fDXId0tkZu1,phosphate,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8503952,-2.5881863,South West,GL17 9NN,Forest of Dean,England,,100,ppb,,,,,,
 e5wIG0Ap9Pv01f5ndc4l,b71VyJx666Tms0js3fDXId0tkZu1,nitrate,2023-12-10 14:00:00,River Wye,Planet Patrol,51.8503944,-2.5881801,South West,GL17 9NN,Forest of Dean,England,,,,1,mg/l,25,mg/l,,
@@ -1901,23 +1901,23 @@ j5YkvVzYgbsGRJGNUfMO,hBLi0iHtDJRFihff2nM3sLfB1oi2,nitrate,2024-11-25 11:47:13,Ri
 o2vVNAMqEwVo7n5abW40,hBLi0iHtDJRFihff2nM3sLfB1oi2,ph,2024-11-25 11:51:45,River Thames Richmond,Planet Patrol,51.45851851176265,-0.3076997699330934,London,TW9 1TH,Richmond upon Thames,England,,,,,,,,6,
 Mzv34Hhfm1ZsqZ3rDTzv,VIkZvmqc1ye5lFD6rJxwpukhSAA2,phosphate,2024-11-28 11:00:00,River Trent,Planet Patrol,52.92508,-1.1650555,East Midlands,NG11 7GD,Nottingham,England,,200,ppb,,,,,,
 XCZphCuPweQsuNaqdKI2,J37TH1tG7nY2rdv70M3as2p9bWm2,temperature,2024-12-22 13:24:45,testuser@pokemail.net,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,,,,,,,,0
-ixLFpNAmdaJe4eD5NMFH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752246,-3.1780868,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,3
 lkoq8wZFItkMs9QAnBQJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752032,-3.1780876,Scotland,EH6 5LW,City of Edinburgh,Scotland,True,,,,,,,,
+ixLFpNAmdaJe4eD5NMFH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752246,-3.1780868,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,3
 kHq89uBJ9QVNefmZxvzc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.975242,-3.1780801,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,5,
 AcBPDFMpXmJ0h04EeZkR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752233,-3.1780655,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
 9FjsW3Xc4yGq8O8wpf3J,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-01-22 14:00:00,Water of Leith,Planet Patrol,55.9752152,-3.1780798,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-7xE3SnNgzaqj62R6z1Fj,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757648,-3.1703753,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,3
 SFBtWHBOYaPouSciKybp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757641,-3.1703927,Scotland,EH6 6RA,City of Edinburgh,Scotland,True,,,,,,,,
+7xE3SnNgzaqj62R6z1Fj,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757648,-3.1703753,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,3
 f8xYEzVUqZcymWsIWLTZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757667,-3.1703818,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,5,
 wbhgyrEL4Vr11lcXzY9W,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757878,-3.1703774,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 1DxrQMqmgmlv2GWlCGdW,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-01-22 14:30:00,Water of Leith,Planet Patrol,55.9757695,-3.1703977,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-ay8QqXugpHqF8HGzm3EO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975234,-3.1781097,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,8
 XzirHRPg4oYrvhOFORTB,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975,-3.1777777777777776,Scotland,EH6 5LW,City of Edinburgh,Scotland,True,,,,,,,,
+ay8QqXugpHqF8HGzm3EO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975234,-3.1781097,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,8
 HX94qRIukAapGObX3lKN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.9752503,-3.1780907,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6,
 f9qpclIOnleaVn6wDeK6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.975222,-3.1780939,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
 5XbZwwXTo4rnyjyT5NWS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-02-21 14:10:00,Water of Leith,Planet Patrol,55.9752798,-3.1781413,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-xkBC56kUCNLXhYUfGFvE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757922,-3.1703698,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,8
 YLFxGa32Rv7DFpQvWcTg,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-02-21 14:40:00,Water of Leith,Simplex Easy Coliform Bacteria Water Test,55.975833333333334,-3.1705555555555556,Scotland,EH6 6LF,City of Edinburgh,Scotland,False,,,,,,,,
+xkBC56kUCNLXhYUfGFvE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757922,-3.1703698,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,8
 z6Jg8ZBesFrpuONlgN7p,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757737,-3.1703726,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6,
 iQzLMBx2VCwoxiqndh4I,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9758074,-3.1703829,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 CXEt81Ub8CGleS3NvKUh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-02-21 14:40:00,Water of Leith,Planet Patrol,55.9757677,-3.1703922,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
@@ -2008,13 +2008,13 @@ yXaj2Z4RquZ7oszziLnW,80Cp8O4LC5e7B2o9n6GEwQRJA9n1,nitrate,2025-06-01 21:36:00,Li
 csnfDmOP988R12oMywDN,kx0G4UqZ61cYXPype2NL5KgYA9v1,coliforms,2025-06-02 09:41:02,Limehouse cut,Planet Patrol,51.510682698374836,-0.08653276297024429,London,EC4R 9AF,City of London,England,True,,,,,,,,
 ID6KXluOR8v6vZ3n1wJ4,WFGnGlqMGndcAU3HDnRJmYYZk3c2,coliforms,2025-06-02 14:39:49,Limehouse Cut,Planet Patrol,51.56702500528274,-0.06260128082149688,London,N16 6JJ,Hackney,England,True,,,,,,,,
 3sxbOWva4zFBrhC9N4Oq,zel7mCtFeuX82ZBjNBxqPdzs7mp1,coliforms,2025-06-02 16:01:09,Limehouse Cut,Planet Patrol,51.49377471327396,-0.1478010239429052,London,SW1W 9SA,Westminster,England,False,,,,,,,,
-sGmUPibEuNHS3HMdLrvs,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9752185,-3.1780973,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,16
 a8qCdQ75k7GXv5hStUU1,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-07-04 13:15:00,Water of Leith,Simplex Easy Bacteria Water Test Kit,55.9782166,-3.1709595,Scotland,EH6 6QA,City of Edinburgh,Scotland,False,,,,,,,,
+sGmUPibEuNHS3HMdLrvs,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9752185,-3.1780973,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,16
 4FR4MaRYUa53rOL5ydfR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9752255,-3.178073,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6,
 thdguRxYDPy2LyiYmvs5,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9751916,-3.1780827,Scotland,EH6 5LW,City of Edinburgh,Scotland,,100,ppb,,,,,,
 q7tUv0UWXB8NSKoAjqrQ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-07-04 13:15:00,Water of Leith,Planet Patrol,55.9751977,-3.1780854,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
-Cl5wcaixCNd0SJNF0LAD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757955,-3.1703978,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,16
 EjBgYkiwaacZW0eo8TlC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-07-04 13:45:00,Water of Leith,Simplex Easy Bacteria Water Test Kit,55.9780107,-3.1701449,Scotland,EH6 6QA,City of Edinburgh,Scotland,False,,,,,,,,
+Cl5wcaixCNd0SJNF0LAD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757955,-3.1703978,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,16
 BKfBZjkWpE2nUsMPqcXw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757729,-3.1703946,Scotland,EH6 6RA,City of Edinburgh,Scotland,,100,ppb,,,,,,
 vFEP7EFNxlthIi1mdpcw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-07-04 13:45:00,Water of Leith,Planet Patrol,55.9757848,-3.1704015,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
 4pbtChzWcjSvYq0Hn6em,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-07-04 14:45:00,Water of Leith,Planet Patrol,55.9758236,-3.1704377,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6,
@@ -2222,23 +2222,23 @@ Yxgkj4CptIR4WQEvwQVB,Ald2Afydr9ctvkib7sGsZJ7Znyq2,ph,2025-10-20 17:27:00,River B
 4EkugXDopqeKMStVYaTQ,Ald2Afydr9ctvkib7sGsZJ7Znyq2,phosphate,2025-10-20 17:30:00,River brent,Planet Patrol,51.53020832692415,-0.3155559394511539,London,W5 1LS,Ealing,England,,0,ppb,,,,,,
 tdrAtV9jmu6pbOONXbnx,Ald2Afydr9ctvkib7sGsZJ7Znyq2,temperature,2025-10-20 17:35:00,River Brent,Planet Patrol,51.530258345121176,-0.31559845136308706,London,W5 1LS,Ealing,England,,,,,,,,,13
 XlfVsuU7aIZEPrgqmDug,Ald2Afydr9ctvkib7sGsZJ7Znyq2,coliforms,2025-10-21 17:45:00,River Brent,Planet Patrol,51.53017,-0.315475,London,W5 1LS,Ealing,England,True,,,,,,,,
-4UDOCDA418cVYUDw8Tu1,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752815,-3.1781481,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,,10
 kQf3McL0T2E4movw75hL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+4UDOCDA418cVYUDw8Tu1,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752815,-3.1781481,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,,10
 EjvotWMZdTmDNFPZMDnI,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752514,-3.1781017,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,5,
 6USyGRYkybfY3E8N9MCJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752375,-3.1781242,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
 ZtoJD6E5btwPm18ukT59,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 13:15:00,Water of Leith,Planet Patrol,55.9752295,-3.1781012,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-aubyEhCZe7s2RjZPpTwc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9750644,-3.1735183,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,10
 hN9h8rBTMEmtvI9JFmVL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+aubyEhCZe7s2RjZPpTwc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9750644,-3.1735183,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,10
 1DhQ2BO1L9bLiLXrUWzW,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9749708,-3.1734414,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,5,
 xwZBxWelEz8Fk3yGjSBf,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9750483,-3.1733914,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 e2OXVpQJye6qce3PtvRf,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 13:30:00,Water of Leith,Planet Patrol,55.9749378,-3.1734353,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,25,mg/l,,
-Dgw6D9aQpxGnSEvaEGrA,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.975797,-3.1704159,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,10
 qfohVayhtBF43tsauEov,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 13:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+Dgw6D9aQpxGnSEvaEGrA,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.975797,-3.1704159,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,10
 nKXc7lxSOqeW918xAfoR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.9757874,-3.1703771,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,5,
 8DhEychIyyMOOZExjao2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.9757802,-3.1703812,Scotland,EH6 6RA,City of Edinburgh,Scotland,,100,ppb,,,,,,
 yH8IsHlnsxPD2NTcRcG3,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 13:45:00,Water of Leith,Planet Patrol,55.9757644,-3.1704151,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-itCL0aZzFvzUs9tBmAfR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764238,-3.1699855,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,10
 Meve8z425pSZIE1911AT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-10-23 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+itCL0aZzFvzUs9tBmAfR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764238,-3.1699855,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,10
 CsaS90WHZ1CffcCieTeh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764595,-3.170027,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,5,
 BIW2COtGp5RutccAdF6a,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9764263,-3.1700113,Scotland,EH6 6AL,City of Edinburgh,Scotland,,100,ppb,,,,,,
 jQX8PlmWPFT99tbuLQzB,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-10-23 14:00:00,Water of Leith,Planet Patrol,55.9762936,-3.1698505,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
@@ -2264,9 +2264,9 @@ EsYi6RTkDkYGaB7Jxxki,Ucr35AQLQTNXsFW0Ty7lu43dQB02,nitrate,2025-10-27 14:40:41,Ne
 dF0YwygpHtCFV1Hks6d1,Ucr35AQLQTNXsFW0Ty7lu43dQB02,ph,2025-10-27 14:43:28,New River,Planet Patrol,51.573794798428004,-0.09706810804123585,London,N4 1HN,Hackney,England,,,,,,,,8,
 oJrAyzsX4ZqJo0Wpznln,Ucr35AQLQTNXsFW0Ty7lu43dQB02,phosphate,2025-10-27 14:45:07,New River,Planet Patrol,51.57376070151721,-0.09707703761642852,London,N4 1HN,Hackney,England,,0,ppb,,,,,,
 TOa2AG9VOVg2CPLfV8No,zUbMUJJi2GYIKy27wUHdDAi6Hqo1,coliforms,2025-10-29 19:08:35,The cut,Planet Patrol,51.507736666666666,-0.7065216666666667,South East,SL6 2AD,Windsor and Maidenhead,England,True,,,,,,,,
+z4RILLAvViYNFBLfTMxd,OGSYgnKF7FPosRixawtcRUGu6xG3,coliforms,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.378332,-0.3457468,South East,KT10 9AP,Elmbridge,England,True,,,,,,,,
 0KQcjJjtBvDU7HwkaT8m,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3791168,-0.3453556,South East,KT10 9AU,Elmbridge,England,,,,,,,,,12
 coANGiNLGDUvVACOnhgj,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3791168,-0.3453556,South East,KT10 9AU,Elmbridge,England,,,,,,,,,12
-z4RILLAvViYNFBLfTMxd,OGSYgnKF7FPosRixawtcRUGu6xG3,coliforms,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.378332,-0.3457468,South East,KT10 9AP,Elmbridge,England,True,,,,,,,,
 0i3OWrWCLjgWDV7RwBmu,OGSYgnKF7FPosRixawtcRUGu6xG3,ph,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3785396,-0.345524,South East,KT10 9AU,Elmbridge,England,,,,,,,,6.5,
 8jwGwam3MGYYfHcVqjxy,OGSYgnKF7FPosRixawtcRUGu6xG3,phosphate,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3787258,-0.3455569,South East,KT10 9AU,Elmbridge,England,,0,ppb,,,,,,
 KV4hZchVcG0aVeDOIqjU,OGSYgnKF7FPosRixawtcRUGu6xG3,nitrate,2025-11-01 09:00:00,River Rythe,Planet Patrol,51.3786218,-0.3458294,South East,KT10 9AP,Elmbridge,England,,,,0,mg/l,0,mg/l,,
@@ -2316,23 +2316,23 @@ ZgjhoPvfP4nG2J3mf7yT,Ucr35AQLQTNXsFW0Ty7lu43dQB02,ph,2025-11-25 14:10:23,New Riv
 pKOU3dzyWfDXKTYVjLmP,Ucr35AQLQTNXsFW0Ty7lu43dQB02,phosphate,2025-11-25 14:13:56,New River,Planet Patrol,51.57381046041381,-0.09681609623153016,London,N4 1HN,Hackney,England,,0,ppb,,,,,,
 rjmYMZ6K6HborHFOV22i,Ucr35AQLQTNXsFW0Ty7lu43dQB02,nitrate,2025-11-25 14:18:00,New River,Planet Patrol,51.57381996179851,-0.09681826778926787,London,N4 1HN,Hackney,England,,,,0,mg/l,0,mg/l,,
 2qbWVmKKs5VK1k47Py0v,Ucr35AQLQTNXsFW0Ty7lu43dQB02,coliforms,2025-11-25 14:25:00,New River,Planet Patrol,51.573813333333334,-0.09686383333333333,London,N4 1HN,Hackney,England,False,,,,,,,,
-COY6qW7s7ynInHYX7uAL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752526,-3.1780978,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,14
 8YElviMTrEcVwRxBh15H,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:15:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,,
+COY6qW7s7ynInHYX7uAL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752526,-3.1780978,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,14
 2NBTvFXwYJOvM41y5lsr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752783,-3.1780486,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,5,
 1bQPGQbn3aCS8G5sn6Lc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752374,-3.1781035,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
 wWjjJIxjrlORQY386bnt,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 14:15:00,Water of Leith,Planet Patrol,55.9752021,-3.1780829,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,25,mg/l,,
-fWEjFTM9vNHvHQoz1QKh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9749777,-3.1734636,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,14
 hele3jGNLff0Yae32tfS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:30:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,,
+fWEjFTM9vNHvHQoz1QKh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9749777,-3.1734636,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,14
 SVCALvSyWGZ0RRxRAjcJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9749688,-3.1734452,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,5,
 KnJqzaB4vkhagRGJqNYL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.9750088,-3.1734998,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 J0PXYfmk9oSVUIcnw6Y0,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 14:30:00,Water of Leith,Planet Patrol,55.975004,-3.1734741,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-oYIJDGgiwMeXuHXMO4cP,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758197,-3.1703636,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,13
 kmqSkUw85d11sAwLWXnV,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 14:45:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,,
+oYIJDGgiwMeXuHXMO4cP,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758197,-3.1703636,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,13
 CtDEKH5xdjTL6Z44DVtw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758117,-3.1704029,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,5,
 rhwi7TVQ2kWcVKDO58ra,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758189,-3.170395,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 f2FTBDwHDkKgHhPz3XlP,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 14:45:00,Water of Leith,Planet Patrol,55.9758161,-3.1703773,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
-IbeiZhgV7FeCCsWEAjCr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763103,-3.1698049,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,14
 2F6tHWeTtGKNM13hrnas,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-11-26 15:00:00,Water of Leith,Planet Patrol,,,,,,,False,,,,,,,,
+IbeiZhgV7FeCCsWEAjCr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763103,-3.1698049,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,14
 2tSWU1DZTCWKCPwC8afN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763316,-3.1699195,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,5,
 dzPlKhyL3yR30u1OglhG,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763376,-3.1698848,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 G8zesvyRlHZnOM38KyLc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-11-26 15:00:00,Water of Leith,Planet Patrol,55.9763089,-3.1698687,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
@@ -2345,67 +2345,67 @@ jaTTlncRgdq3cNermi2t,Ucr35AQLQTNXsFW0Ty7lu43dQB02,coliforms,2025-12-09 12:45:00,
 mbx6Gpppdk8mAMGY389S,OGSYgnKF7FPosRixawtcRUGu6xG3,nitrate,2025-12-14 09:45:00,River Rythe,Planet Patrol,51.3783067,-0.345711,South East,KT10 9AU,Elmbridge,England,,,,0,mg/l,0,mg/l,,
 JCfwkksYoP0Kwi8k9FHl,OGSYgnKF7FPosRixawtcRUGu6xG3,phosphate,2025-12-14 09:46:00,River Rythe,Planet Patrol,51.378345,-0.3455727,South East,KT10 9AU,Elmbridge,England,,0,ppb,,,,,,
 y5tYK2gIy7qMdA48FjEL,OGSYgnKF7FPosRixawtcRUGu6xG3,ph,2025-12-14 09:47:00,River Rythe,Planet Patrol,51.3786008,-0.3459025,South East,KT10 9AP,Elmbridge,England,,,,,,,,5.5,
-nc7Pe66BLSLtDWMxmUNz,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-12-14 09:48:00,River Rythe,Planet Patrol,51.3784421,-0.3453447,South East,KT10 9AU,Elmbridge,England,,,,,,,,,9
 kRe6n1ObfY33qbmS2aMI,OGSYgnKF7FPosRixawtcRUGu6xG3,coliforms,2025-12-14 09:48:00,River Rythe,Planet Patrol,51.3784666,-0.3456439,South East,KT10 9AU,Elmbridge,England,True,,,,,,,,
-alXc8O0FGOtYsv5llvxc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752718,-3.1781096,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,6
+nc7Pe66BLSLtDWMxmUNz,OGSYgnKF7FPosRixawtcRUGu6xG3,temperature,2025-12-14 09:48:00,River Rythe,Planet Patrol,51.3784421,-0.3453447,South East,KT10 9AU,Elmbridge,England,,,,,,,,,9
 M9yTesRVj7HodHUiHdk8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 13:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+alXc8O0FGOtYsv5llvxc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752718,-3.1781096,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,6
 xVXMTRqwbCDqMw5MT7JN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.975242,-3.178107,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,7,
 l53HwSjMGwMX8seBeBaK,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752912,-3.1780787,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
 rHXxjkcHgxth0U2iVlZZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 13:45:00,Water of Leith,Planet Patrol,55.9752344,-3.1780754,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-3x4Br6yq7dBLtgtXHrw4,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9750646,-3.1734113,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,6
 e1VK8SGgUFj6827BiK61,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+3x4Br6yq7dBLtgtXHrw4,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9750646,-3.1734113,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,6
 Gg5NpVk010DyWudMDKxy,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9750744,-3.1734931,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6,
 m6x3Tu0HtbSVbFWlL4YF,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9749683,-3.1734826,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 H9Wk7OQHZrNtq4lMoOX2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 14:00:00,Water of Leith,Planet Patrol,55.9749701,-3.1734209,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-zue0uDnm21IobVFSxDjx,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758472,-3.1703973,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,6
 gOh4czvWrj0zl46McpFE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+zue0uDnm21IobVFSxDjx,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758472,-3.1703973,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,6
 BFJgWE1232cHmtam4rkw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758561,-3.1703932,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6,
 UNzXlqIOytAjbJw4unTI,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758286,-3.1704337,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 G3MadP41PzL04jW40cMu,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 14:15:00,Water of Leith,Planet Patrol,55.9758217,-3.170403,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-i3o5d8g302o3OlyLYHFC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.976391,-3.1699286,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,6
 JnUgIRSDlCwFF0oFNcgn,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2025-12-23 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+i3o5d8g302o3OlyLYHFC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.976391,-3.1699286,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,6
 T2TRGJj0vQ8Qr01Z6iBN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.9763934,-3.1699432,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,6,
 NGFJtkEt4mX7E6qdwh5j,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.9763419,-3.1698824,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 faqCKkXbuQqXex4gQ1aC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2025-12-23 14:30:00,Water of Leith,Planet Patrol,55.9763649,-3.1699005,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-TtILl5p0ZANFOyw7fNJc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.975262,-3.1780976,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,4
 hak20oF6YlupnsBR7uLp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+TtILl5p0ZANFOyw7fNJc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.975262,-3.1780976,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,4
 PZnLlbAsAaXkvOrn0ABX,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.9752227,-3.1781018,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6,
 sz1zx9FjSScp2GUb2Hc6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.9752178,-3.1781023,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
 qDOY2xtmNDr1DwAzo5cO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:00:00,Water of Leith,Planet Patrol,55.9752312,-3.1781103,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-awGRpHBx8nhsdDkG4lGO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.975042,-3.1733936,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,3
 OPAU7Qg0iV6tXiFehHhR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+awGRpHBx8nhsdDkG4lGO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.975042,-3.1733936,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,3
 NoNnHZhhM9TNI8Ae0CFL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.9750106,-3.1734373,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6,
 MNB9BRRsqbCYjtorKGl6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.9749972,-3.1734252,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 GnbfyFjuTm0TvRmDPQ2T,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:15:00,Water of Leith,Planet Patrol,55.9749913,-3.1733972,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-cBTJr1s9cUVCWCSCPTZw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9757894,-3.1704115,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,3
 H7shf62LTqpvw0A9ZXnK,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+cBTJr1s9cUVCWCSCPTZw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9757894,-3.1704115,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,3
 kWbESFgnud5ofa28LnmY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9758037,-3.1703957,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6,
 WSmZpxPSrRBhgGiaPCrp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9758008,-3.1703842,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 PvkdX5Dv90gnLBhfP48J,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:30:00,Water of Leith,Planet Patrol,55.9758066,-3.1703753,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-dYM2G6jMyaqtKowirPel,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9764539,-3.1699265,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,3
 iHy706xVLd3MtQfS9lfH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-01-14 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+dYM2G6jMyaqtKowirPel,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9764539,-3.1699265,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,3
 7D2Wfp4SFfemMyhmtCu0,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9764323,-3.1699238,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,6,
 jEWyZXS2Znxns9J8pDwD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9763529,-3.1698419,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 ibi4XES7jERZrRziIoEY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-01-14 14:45:00,Water of Leith,Planet Patrol,55.9762929,-3.169859,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
 4Ei2QruixQluiOxWihJz,BUyqoom8vbfxYxT4eS0wCmZ9qI72,nitrate,2026-01-15 12:39:21,Test,Planet Patrol,51.499742,-0.124006,London,SW1A 0AA,Westminster,England,,,,0,mg/l,0,mg/l,,
 QeneYnwMI5ixUwomcBvL,DgM4f2cGA3czDQKOkQE3AKRnk7g2,coliforms,2026-01-16 16:21:16,Dj,Planet Patrol,51.5343819,-0.0439333,London,E9 7HW,Hackney,England,True,,,,,,,,
-kapCi8P8InsQIaF3Stt6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:00:00,Water of Leith,Planet Patrol,55.9752682,-3.1781067,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,2
 d6Z144m2iQ2B48LqrZAE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-02-18 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+kapCi8P8InsQIaF3Stt6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:00:00,Water of Leith,Planet Patrol,55.9752682,-3.1781067,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,2
 pE6AS1MfmrGSf5pQPZnN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-02-18 14:00:00,Water of Leith,Planet Patrol,55.9752876,-3.1781513,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,6,
 3T1nPJIO5HNLt2fq7Z61,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-02-18 14:00:00,Water of Leith,Planet Patrol,55.9752279,-3.1782373,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 4JtHdzdmQCem8wrV97mu,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-02-18 14:00:00,Water of Leith,Planet Patrol,55.9752082,-3.1781098,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-rjP8ijPczyolFX3ECKBr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:15:00,Water of Leith,Planet Patrol,55.9751102,-3.1733964,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,2
 t90UT0FSkbl4BUagm9aR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-02-18 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+rjP8ijPczyolFX3ECKBr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:15:00,Water of Leith,Planet Patrol,55.9751102,-3.1733964,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,2
 mqHGmgcOmuG48E4gvEst,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-02-18 14:15:00,Water of Leith,Planet Patrol,55.9750521,-3.1734135,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6.5,
 d5P1tL4lf2NrIQH79zSD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-02-18 14:15:00,Water of Leith,Planet Patrol,55.9750544,-3.1734388,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 ZFmxJSBxLf5yyISC2GiY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-02-18 14:15:00,Water of Leith,Planet Patrol,55.9750116,-3.1733862,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-8HGOu6oM4HzFX6XisZVS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:30:00,Water of Leith,Planet Patrol,55.975846,-3.1703667,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,2
 1uDYAwHMAMQCKH1hys7b,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-02-18 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+8HGOu6oM4HzFX6XisZVS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:30:00,Water of Leith,Planet Patrol,55.975846,-3.1703667,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,2
 Aj8UZOOrWzJ7Tenc0Yct,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-02-18 14:30:00,Water of Leith,Planet Patrol,55.97581,-3.1703971,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6.5,
 saE5LfEuKPsaQzPTqpvx,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-02-18 14:30:00,Water of Leith,Planet Patrol,55.9757942,-3.1703625,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 YlfqapzkyxX8lHg1Qowc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-02-18 14:30:00,Water of Leith,Planet Patrol,55.9758066,-3.1703656,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,25,mg/l,,
-NpIvCQbYHefClaEws0DZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:45:00,Water of Leith,Planet Patrol,55.9764268,-3.1699421,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,2
 01Ol1bC6wS0oJS4AiDmj,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-02-18 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+NpIvCQbYHefClaEws0DZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-02-18 14:45:00,Water of Leith,Planet Patrol,55.9764268,-3.1699421,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,2
 4Z18bswPp6Hi4NxrZbmT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-02-18 14:45:00,Water of Leith,Planet Patrol,55.976336,-3.1698621,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,6,
 ZVo2Wi6WuVb8iRADA8nL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-02-18 14:45:00,Water of Leith,Planet Patrol,55.9763981,-3.1698854,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 CpAPt2AhqO40HTGVaIbz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-02-18 14:45:00,Water of Leith,Planet Patrol,55.976304,-3.1698972,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
@@ -2478,23 +2478,23 @@ KwYdY8OugL6CPKt0IW5I,Hb4ZX5qRLJRXrmI7TMCnLmyEBaI2,ph,2026-03-18 12:28:37,Kingsla
 f9HZTt7F6o8Hgki3mNXL,Hb4ZX5qRLJRXrmI7TMCnLmyEBaI2,phosphate,2026-03-18 12:34:39,Kingsland Basin- Regent’s Canal,Planet Patrol,51.53776743284245,-0.07789538917461819,London,N1 5BB,Hackney,England,,0,ppb,,,,,,
 cYepY40eiwH82xhg6Tsb,Hb4ZX5qRLJRXrmI7TMCnLmyEBaI2,nitrate,2026-03-18 12:38:03,"Kingsland Basin, Regent’s Canal",Planet Patrol,51.5377644901608,-0.0778514672971795,London,N1 5BB,Hackney,England,,,,1,mg/l,10,mg/l,,
 jVbHRWKR5EfOPc1BdJWR,Hb4ZX5qRLJRXrmI7TMCnLmyEBaI2,temperature,2026-03-18 12:41:01,Kingsland Basin- Regent’s Canal,Planet Patrol,51.537832271062456,-0.07787392864120939,London,N1 5BB,Hackney,England,,,,,,,,,11
-y6zqXilmlaJvtiKIOvxv,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:00:00,Water of Leith,Planet Patrol,55.9752653,-3.1781119,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,9
 neozhuvDdauBqTy290YJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-03-18 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+y6zqXilmlaJvtiKIOvxv,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:00:00,Water of Leith,Planet Patrol,55.9752653,-3.1781119,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,9
 Z0Znwmqh5KhwxdpVvWkN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-03-18 14:00:00,Water of Leith,Planet Patrol,55.9752249,-3.1781271,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,6.5,
 PfD6qBqe3mE1fXWwdW4K,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-03-18 14:00:00,Water of Leith,Planet Patrol,55.9752236,-3.1781101,Scotland,EH6 5LW,City of Edinburgh,Scotland,,500,ppb,,,,,,
 lW4jsgDU1IiEt6puNXEr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-03-18 14:00:00,Water of Leith,Planet Patrol,55.9752021,-3.1780851,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-jzMDc5r5uPaX3adD6WB4,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:15:00,Water of Leith,Planet Patrol,55.9750253,-3.1734183,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,9
 eFjePxC7s1cwA9UiilLT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-03-18 14:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+jzMDc5r5uPaX3adD6WB4,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:15:00,Water of Leith,Planet Patrol,55.9750253,-3.1734183,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,9
 4N04NwaIBcG10YReE0x9,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-03-18 14:15:00,Water of Leith,Planet Patrol,55.9750158,-3.173415,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6.5,
 lWlxtoQOvJcpwTzCwrz2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-03-18 14:15:00,Water of Leith,Planet Patrol,55.9750144,-3.1734114,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,100,ppb,,,,,,
 rDI6DfIodhwdsEPqOqrN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-03-18 14:15:00,Water of Leith,Planet Patrol,55.9750074,-3.173411,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-NdUT2xV41rqvsNSpnBEg,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:30:00,Water of Leith,Planet Patrol,55.9758103,-3.1703951,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,8
 MredXqk0y0HfVaH4LnbP,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-03-18 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+NdUT2xV41rqvsNSpnBEg,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:30:00,Water of Leith,Planet Patrol,55.9758103,-3.1703951,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,8
 OR1kcVSwWX9OHFcsLRLy,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-03-18 14:30:00,Water of Leith,Planet Patrol,55.9758353,-3.1704303,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,6.5,
 0QDdHC37iK35TZaaDobz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-03-18 14:30:00,Water of Leith,Planet Patrol,55.975826,-3.17037,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 4qvb0PgTCUhjnQgeqkRY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-03-18 14:30:00,Water of Leith,Planet Patrol,55.9757985,-3.1703893,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-yCZ98iM5mWQUKRIPeiNe,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:45:00,Water of Leith,Planet Patrol,55.9763536,-3.1699611,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,8
 Wd43dy06UkbxvfscW2TI,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-03-18 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+yCZ98iM5mWQUKRIPeiNe,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-03-18 14:45:00,Water of Leith,Planet Patrol,55.9763536,-3.1699611,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,8
 z4Af66jKMmpGkyNNA5Tq,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-03-18 14:45:00,Water of Leith,Planet Patrol,55.9763697,-3.169899,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,6.5,
 P83pNJg5veKhOlKcZ96l,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-03-18 14:45:00,Water of Leith,Planet Patrol,55.9763149,-3.1698783,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 rNSswnqqUaKkky5yX0l7,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-03-18 14:45:00,Water of Leith,Planet Patrol,55.9763691,-3.1699101,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
@@ -2600,23 +2600,23 @@ nzDuh8wzaY2s4jRumX7V,yiXmMytA1jT5ztW2kzZaLGqkuXX2,temperature,2026-04-08 13:06:0
 gUQRM682S1eSRooI4vGm,yiXmMytA1jT5ztW2kzZaLGqkuXX2,ph,2026-04-08 13:08:47,River Thames,Planet Patrol,51.39790333333333,-0.31067999999999996,London,KT6 4HL,Kingston upon Thames,England,,,,,,,,7.5,
 g68Iuc4WyT9zxdn3JFDh,yiXmMytA1jT5ztW2kzZaLGqkuXX2,phosphate,2026-04-08 13:09:29,River Thames,Planet Patrol,51.39790333333333,-0.31067999999999996,London,KT6 4HL,Kingston upon Thames,England,,0,ppb,,,,,,
 pOil3GP7P710ee0KUk6a,yiXmMytA1jT5ztW2kzZaLGqkuXX2,nitrate,2026-04-08 13:11:49,River Thames,Planet Patrol,51.39790333333333,-0.31067999999999996,London,KT6 4HL,Kingston upon Thames,England,,,,1,mg/l,10,mg/l,,
-VRPIA3Yvf9seF4oBliKY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:00:00,Water of Leith,Planet Patrol,55.9752943,-3.1781059,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,,12
 QlbhttmxhVHMnv5zNSaJ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-04-08 14:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+VRPIA3Yvf9seF4oBliKY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:00:00,Water of Leith,Planet Patrol,55.9752943,-3.1781059,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,,12
 sxJWdMqtXj5IKmUfpG8O,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-04-08 14:00:00,Water of Leith,Planet Patrol,55.9752826,-3.1781322,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,7,
 AvyWL4e29VoPiEJnfElh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-04-08 14:00:00,Water of Leith,Planet Patrol,55.975268,-3.1781189,Scotland,EH6 5LW,City of Edinburgh,Scotland,,0,ppb,,,,,,
-RCGswo31qfCe0VZgvyUr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.9750244,-3.1734123,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,11
 0rjBak4eiihrVPWEuUeV,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.9750339,-3.1734162,Scotland,EH6 6EQ,City of Edinburgh,Scotland,True,,,,,,,,
+RCGswo31qfCe0VZgvyUr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.9750244,-3.1734123,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,11
 l1PPLtvLBkkn0sNFX3oh,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.975067,-3.1733999,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,7,
 y3Ag8Zi9gmhWsftC8kjU,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.9750222,-3.1734267,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,7,
 6LXGlUTDDu3Zs1ncsgBL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.9750298,-3.1734174,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 atTs2Vht2uLxXCic8H0I,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-04-08 14:15:00,Water of Leith,Planet Patrol,55.975003,-3.1734243,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-3awivAHZJ8bubQymsWFn,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:30:00,Water of Leith,Planet Patrol,55.9758044,-3.1704164,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,10
 NAP4SsA8eMlHeBqZUac2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-04-08 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+3awivAHZJ8bubQymsWFn,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:30:00,Water of Leith,Planet Patrol,55.9758044,-3.1704164,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,10
 lTgTTNmKKVjrJ9btLI4K,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-04-08 14:30:00,Water of Leith,Planet Patrol,55.9757985,-3.1704047,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,7,
 7Ne63t1rzM4bv1PJUxAE,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-04-08 14:30:00,Water of Leith,Planet Patrol,55.9758246,-3.1703507,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 46ilL0nIonflD314OSeQ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-04-08 14:30:00,Water of Leith,Planet Patrol,55.9757776,-3.1704148,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
-bvN1VrYOvovCvobzbpgm,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:45:00,Water of Leith,Planet Patrol,55.9762801,-3.1698363,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,11
 BCMK5TNE7BN2dbdZkmmb,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-04-08 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+bvN1VrYOvovCvobzbpgm,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-04-08 14:45:00,Water of Leith,Planet Patrol,55.9762801,-3.1698363,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,11
 w7qYPAU4SUBNqRpFFDOG,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-04-08 14:45:00,Water of Leith,Planet Patrol,55.9762873,-3.1698634,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,7,
 QbluIh3pYL5UGvdVKmUr,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-04-08 14:45:00,Water of Leith,Planet Patrol,55.9763099,-3.1699058,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 nWFytwTOvijw4XbaoJ7k,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-04-08 14:45:00,Water of Leith,Planet Patrol,55.9762805,-3.1698316,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
@@ -2800,23 +2800,23 @@ FfFr8mk8Ybip8MXXGQGC,v2qxH9zhLjNx3liq56kWUwhn1Je2,ph,2026-05-12 16:55:54,River T
 xlCB8btENZDoRxJ19JDL,v2qxH9zhLjNx3liq56kWUwhn1Je2,nitrate,2026-05-12 16:59:44,River thames,Planet Patrol,51.39736219570683,-0.31164433174783085,London,KT6 4HH,Kingston upon Thames,England,,,,0,mg/l,10,mg/l,,
 9eKtoLqHyWW6SwlfgTKj,v2qxH9zhLjNx3liq56kWUwhn1Je2,temperature,2026-05-12 17:02:26,River thames,Planet Patrol,51.3973527960868,-0.31166853946630513,London,KT6 4HH,Kingston upon Thames,England,,,,,,,,,16
 iklrUJfKntUqBcIVn8wq,v2qxH9zhLjNx3liq56kWUwhn1Je2,phosphate,2026-05-12 17:04:33,River Thames,Planet Patrol,51.397374199139115,-0.31164865612815124,London,KT6 4HH,Kingston upon Thames,England,,500,ppb,,,,,,
-a7rXmzjfOqPWoz1VpXVz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 14:30:00,Water of Leith,Planet Patrol,55.9752506,-3.1780864,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,10
 DP1TsASZ4uQnh4HXVbfl,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-05-13 14:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+a7rXmzjfOqPWoz1VpXVz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 14:30:00,Water of Leith,Planet Patrol,55.9752506,-3.1780864,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,10
 OygUDrH7T2czqAI2fYdR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-05-13 14:30:00,Water of Leith,Planet Patrol,55.9752826,-3.1780749,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,7,
 AVpp0MhXRChBIUjfX6hN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-05-13 14:30:00,Water of Leith,Planet Patrol,55.9752921,-3.1781172,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 RBphPQiveWBlredqWeZj,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-05-13 14:30:00,Water of Leith,Planet Patrol,55.9752308,-3.1780909,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-cYoOTAHVFU1JTDe4TOGe,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 14:45:00,Water of Leith,Planet Patrol,55.975018,-3.1734017,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,11
 f9lq72jW9iRe8bsOUT3B,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-05-13 14:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+cYoOTAHVFU1JTDe4TOGe,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 14:45:00,Water of Leith,Planet Patrol,55.975018,-3.1734017,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,11
 CSEmo7jOV2yFaadYu9aK,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-05-13 14:45:00,Water of Leith,Planet Patrol,55.9749715,-3.1734041,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6,
 7gGiw8ZCXECEKtKrdKIC,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-05-13 14:45:00,Water of Leith,Planet Patrol,55.9749755,-3.1734179,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,0,ppb,,,,,,
 u8stw4UqjQRCmDojjAK8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-05-13 14:45:00,Water of Leith,Planet Patrol,55.9750002,-3.1733983,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-NwIXWpzWGRjqcQnjXZee,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 15:00:00,Water of Leith,Planet Patrol,55.9757984,-3.1703703,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,12
 yg9qYb9Z1khoeMwKcglb,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-05-13 15:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+NwIXWpzWGRjqcQnjXZee,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 15:00:00,Water of Leith,Planet Patrol,55.9757984,-3.1703703,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,12
 tImyCDe1isvPBr8MZgYR,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-05-13 15:00:00,Water of Leith,Planet Patrol,55.9757917,-3.1703876,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,7,
 bY9tl1L4w3uOBJcsE5Gx,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-05-13 15:00:00,Water of Leith,Planet Patrol,55.9758403,-3.1703638,Scotland,EH6 6RA,City of Edinburgh,Scotland,,0,ppb,,,,,,
 MkOqdsCN3FFNjzekfqn6,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-05-13 15:00:00,Water of Leith,Planet Patrol,55.9758398,-3.1703522,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-fnMcFJDLQBIJOKo2oo9p,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 15:15:00,Water of Leith,Planet Patrol,55.9764088,-3.1699454,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,12
 laxDUAow9OOJx54uJrPj,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-05-13 15:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+fnMcFJDLQBIJOKo2oo9p,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-05-13 15:15:00,Water of Leith,Planet Patrol,55.9764088,-3.1699454,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,12
 HeqPAcyw5PxSzyFwByJH,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-05-13 15:15:00,Water of Leith,Planet Patrol,55.9763764,-3.1699306,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,7,
 Dnc6QUpt0GfhBCMzSIJ8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-05-13 15:15:00,Water of Leith,Planet Patrol,55.9763891,-3.1698978,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 iDWzmiYJGLGcv1zRpbt8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-05-13 15:15:00,Water of Leith,Planet Patrol,55.9763006,-3.16989,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
@@ -2963,25 +2963,25 @@ hfO9e9yNaxK1BTXIMdQd,Hb4ZX5qRLJRXrmI7TMCnLmyEBaI2,phosphate,2026-06-19 12:27:38,
 jrrfE808vFRjdLmTpDGR,xuOyA42ThjY9rYkbYtOdh7uw06i2,nitrate,2026-06-19 12:27:52,Mile End canal,Planet Patrol,51.5276419,-0.0399928,London,E3 5BE,Tower Hamlets,England,,,,0,mg/l,0,mg/l,,
 X5qMUZxlrJgewRZujF7D,xuOyA42ThjY9rYkbYtOdh7uw06i2,temperature,2026-06-19 12:29:41,Mile End canal,Planet Patrol,51.5275418,-0.0398558,London,E3 5BE,Tower Hamlets,England,,,,,,,,,24
 9QlqdaAbAe4HuNQ8K89B,Hb4ZX5qRLJRXrmI7TMCnLmyEBaI2,temperature,2026-06-19 12:30:13,"Kingsland Basin, Regent’s Canal",Planet Patrol,51.537772686702986,-0.07804845612545411,London,N1 5BB,Hackney,England,,,,,,,,,25
-I3PmXOT7KrkriURntea9,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 09:45:00,Water of Leith,Planet Patrol,55.9752476,-3.1781272,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,16
 A8ticWtPe7cFWSq4Z4FB,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-06-20 09:45:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+I3PmXOT7KrkriURntea9,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 09:45:00,Water of Leith,Planet Patrol,55.9752476,-3.1781272,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,16
 hMB9UXBbtoJSl7l1UiD4,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-06-20 09:45:00,Water of Leith,Planet Patrol,55.9752628,-3.1781103,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,7,
 ZbGM09E7jmH6f8CbpsIA,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-06-20 09:45:00,Water of Leith,Planet Patrol,55.9752966,-3.1781494,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,100,ppb,,,,,,
 OBT5LQkFvmgTQ1KbZO97,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-06-20 09:45:00,Water of Leith,Planet Patrol,55.9752687,-3.1780921,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
-vZRUj8z4nLi2iwctENxM,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9751567,-3.1734133,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,15
 u6brX4XSfiLuhaAc9glw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-06-20 10:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+vZRUj8z4nLi2iwctENxM,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9751567,-3.1734133,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,15
 uv64dsj5kQOg4sgn7wjp,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9751245,-3.1734931,Scotland,EH6 6ES,City of Edinburgh,Scotland,,,,,,,,7,
 DKsUKxpgrxjn8Anz3NIS,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9752659,-3.1781268,Scotland,EH6 5LW,City of Edinburgh,Scotland,,200,ppb,,,,,,
 V4Wdhl5I6GtSas44s6if,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9750261,-3.1734543,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,200,ppb,,,,,,
 F8WT8rBwGiVTIDWvhfyz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9749856,-3.1734383,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
 bcJrjTFl2JdqvzwGxvjX,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-06-20 10:00:00,Water of Leith,Planet Patrol,55.9752221,-3.1781059,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,10,mg/l,,
-FAKedAPZhw2cMKvCn1zT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 10:15:00,Water of Leith,Planet Patrol,55.9757851,-3.1703935,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,14
 KG9SkucjXrwEW3e6WI6e,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-06-20 10:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+FAKedAPZhw2cMKvCn1zT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 10:15:00,Water of Leith,Planet Patrol,55.9757851,-3.1703935,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,14
 myFTVYvt8y6yjBpz08dx,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-06-20 10:15:00,Water of Leith,Planet Patrol,55.9757853,-3.1704043,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,7,
 sJ4L1gWjo8zOanxIh5a5,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-06-20 10:15:00,Water of Leith,Planet Patrol,55.9757999,-3.1704124,Scotland,EH6 6RA,City of Edinburgh,Scotland,,100,ppb,,,,,,
 z65nRmwb01ciYmWadUH7,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-06-20 10:15:00,Water of Leith,Planet Patrol,55.9758005,-3.1704073,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-W4C6GslV5g9xHVoB795Q,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 10:30:00,Water of Leith,Planet Patrol,55.9764122,-3.1698924,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,14
 Cu05AsjJtcDpKqoLatPl,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-06-20 10:30:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+W4C6GslV5g9xHVoB795Q,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-06-20 10:30:00,Water of Leith,Planet Patrol,55.9764122,-3.1698924,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,,14
 1C9Sncv0hGLdon2Cc4oF,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-06-20 10:30:00,Water of Leith,Planet Patrol,55.9763273,-3.1699314,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,7,
 ZYUygrm75Un8uMs0h2ta,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-06-20 10:30:00,Water of Leith,Planet Patrol,55.9764005,-3.1699104,Scotland,EH6 6QU,City of Edinburgh,Scotland,,0,ppb,,,,,,
 rD3AWqy7UbVPnoptNNLL,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-06-20 10:30:00,Water of Leith,Planet Patrol,55.9762517,-3.169845,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
@@ -3010,23 +3010,23 @@ tLa3isoVBmYNalUpm5Gm,PwblFm4hANdPW7eALNIsZC3V7sC3,nitrate,2026-07-05 08:13:04,Ri
 7iAtX07yiIGVquOooPcc,PwblFm4hANdPW7eALNIsZC3V7sC3,phosphate,2026-07-05 08:20:56,River Aire,Planet Patrol,53.827826313390936,-1.6320193947086052,Yorkshire and The Humber,LS18 4LW,Leeds,England,,0,ppb,,,,,,
 YDu7CzBg3Zu6MVYN3pmc,PwblFm4hANdPW7eALNIsZC3V7sC3,temperature,2026-07-05 08:25:32,River Aire,Planet Patrol,53.82772617237497,-1.632003224798634,Yorkshire and The Humber,LS18 4LW,Leeds,England,,,,,,,,,19
 WPeBjmK0oX6Y1WVdP1aQ,ne1ObAqlWqhmoJHtpgNrqDNQFTw2,nitrate,2026-07-10 15:46:00,crane river,Planet Patrol,51.3588257,-0.3554377,South East,KT10 9EG,Elmbridge,England,,,,10,mg/l,0,mg/l,,
-Ut7pQotMXzNinje6KqE2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:00:00,Water of Leith,Planet Patrol,55.9752402,-3.1780811,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,20
 euJzSnTjrwx0IRELiDnu,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-07-22 15:00:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+Ut7pQotMXzNinje6KqE2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:00:00,Water of Leith,Planet Patrol,55.9752402,-3.1780811,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,20
 lRPDYXKgeQyDyKpUVQqN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-07-22 15:00:00,Water of Leith,Planet Patrol,55.9752885,-3.1781335,Scotland,EH6 6HJ,City of Edinburgh,Scotland,,,,,,,,7,
 aIOAWfQzkAi2uKQL7R72,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-07-22 15:00:00,Water of Leith,Planet Patrol,55.9752802,-3.1780846,Scotland,EH6 5LW,City of Edinburgh,Scotland,,100,ppb,,,,,,
 rYxGEwarlLWJCbvS7gZv,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-07-22 15:00:00,Water of Leith,Planet Patrol,55.9752862,-3.1780957,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-47OWmk7Mnz9l8k0UCfe8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:15:00,Water of Leith,Planet Patrol,55.9751788,-3.1733922,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,18
 OrGtZLXhYrpbUvJukn0a,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-07-22 15:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+47OWmk7Mnz9l8k0UCfe8,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:15:00,Water of Leith,Planet Patrol,55.9751788,-3.1733922,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,18
 GQaooWz4GcETh8J8Pr7h,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-07-22 15:15:00,Water of Leith,Planet Patrol,55.9750656,-3.1734273,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,7,
 JRB6y6m5feBN4A9jGE1X,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-07-22 15:15:00,Water of Leith,Planet Patrol,55.9750255,-3.1735157,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,200,ppb,,,,,,
 7WmoAaqOkBQwjvCuAZRU,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-07-22 15:15:00,Water of Leith,Planet Patrol,55.9749997,-3.1734994,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
-pfJ0rJSmyvDtRvC8KiBZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:25:00,Water of Leith,Planet Patrol,55.9758186,-3.1703744,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,20
 UvRsnNCrUHV9905oNYJV,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-07-22 15:25:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+pfJ0rJSmyvDtRvC8KiBZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:25:00,Water of Leith,Planet Patrol,55.9758186,-3.1703744,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,20
 zg7ZrRgVicKjRlhJ3tz2,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-07-22 15:25:00,Water of Leith,Planet Patrol,55.9757861,-3.1704044,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,7,
 Yo4qeKKEa5MWXLnP1RYc,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-07-22 15:25:00,Water of Leith,Planet Patrol,55.9758111,-3.170356,Scotland,EH6 6RA,City of Edinburgh,Scotland,,300,ppb,,,,,,
 ZD5hWaGeaKjNxAn2SX88,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-07-22 15:25:00,Water of Leith,Planet Patrol,55.9757759,-3.1703847,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
-QhTcU8Y5BSUViltOS4tD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:35:00,Water of Leith,Planet Patrol,55.9766042,-3.1701875,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,20
 xOssbMVmXHjGqnaVhrGO,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-07-22 15:35:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+QhTcU8Y5BSUViltOS4tD,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-07-22 15:35:00,Water of Leith,Planet Patrol,55.9766042,-3.1701875,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,20
 J1f4gU8fCfilud5Dz9pQ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-07-22 15:35:00,Water of Leith,Planet Patrol,55.9763756,-3.1699651,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,,,,,7,
 TvbauVijCuRoaw2wkr8s,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-07-22 15:35:00,Water of Leith,Planet Patrol,55.9764101,-3.1700234,Scotland,EH6 6AL,City of Edinburgh,Scotland,,200,ppb,,,,,,
 PISqtVeiKFuAXNlRF5au,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-07-22 15:35:00,Water of Leith,Planet Patrol,55.9762854,-3.1698156,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
@@ -3046,24 +3046,28 @@ r8z0v7KP3NGJFmbO0sAV,PwblFm4hANdPW7eALNIsZC3V7sC3,temperature,2026-08-05 18:31:2
 LfQe6eETIfJagNGC68ER,W0VLXtnAr3cq2hFkzengGyUnEvf1,phosphate,2026-08-11 08:45:39,Adel beck,Planet Patrol,53.8555194,-1.5750487,Yorkshire and The Humber,LS16 8LW,Leeds,England,,0,ppb,,,,,,
 8d3pOU5sb7I3gMFfY4OT,W0VLXtnAr3cq2hFkzengGyUnEvf1,ph,2026-08-11 08:53:30,Adel beck,Planet Patrol,53.8554469,-1.5750313,Yorkshire and The Humber,LS16 8LW,Leeds,England,,,,,,,,7,
 FwokKLrm9Sh1fqxpqBKA,W0VLXtnAr3cq2hFkzengGyUnEvf1,temperature,2026-08-11 08:55:58,Adel beck,Planet Patrol,53.8554424,-1.5750532,Yorkshire and The Humber,LS16 8LW,Leeds,England,,,,,,,,,13
-iISjkjlQPtsocxvGhzjz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 14:35:00,Water of Leith,Planet Patrol,55.9752477,-3.1781136,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,15
 ZgPL38ppuiokGrMZvHNN,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-08-19 14:35:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+iISjkjlQPtsocxvGhzjz,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 14:35:00,Water of Leith,Planet Patrol,55.9752477,-3.1781136,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,,15
 dIvdYMgWnnEdJGpILMLw,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-08-19 14:35:00,Water of Leith,Planet Patrol,55.9752332,-3.1780884,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,,,,,8,
 rT3G2daylDence85Tfw7,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-08-19 14:35:00,Water of Leith,Planet Patrol,55.9752581,-3.1780988,Scotland,EH6 5LW,City of Edinburgh,Scotland,,200,ppb,,,,,,
 bx1eut2Z5J7vY6UdClpo,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-08-19 14:35:00,Water of Leith,Planet Patrol,55.9752354,-3.1780973,Scotland,EH6 5LW,City of Edinburgh,Scotland,,,,0,mg/l,25,mg/l,,
-Cn5p77N3WGswYnze3STT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 14:55:00,Water of Leith,Planet Patrol,55.9750716,-3.1734148,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,16
 tbx7MvFdOqpO91WscO7t,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-08-19 14:55:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+Cn5p77N3WGswYnze3STT,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 14:55:00,Water of Leith,Planet Patrol,55.9750716,-3.1734148,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,,16
 IF1T9aivKG7E2Fb4KM1r,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-08-19 14:55:00,Water of Leith,Planet Patrol,55.9750411,-3.1733776,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,,,,,6,
 SwGib2HitNYr1lxivYde,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-08-19 14:55:00,Water of Leith,Planet Patrol,55.9750457,-3.1734013,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,200,ppb,,,,,,
 WPmIRmByd5k0ybvnRo66,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-08-19 14:55:00,Water of Leith,Planet Patrol,55.9750493,-3.1734162,Scotland,EH6 6EQ,City of Edinburgh,Scotland,,,,1,mg/l,25,mg/l,,
-CgOndIyL5l6mKxfUhiM5,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 15:05:00,Water of Leith,Planet Patrol,55.9758587,-3.1703788,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,15
 AdwfcxhPqB6kT7MhwyeY,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-08-19 15:05:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+CgOndIyL5l6mKxfUhiM5,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 15:05:00,Water of Leith,Planet Patrol,55.9758587,-3.1703788,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,,15
 Vt5px7rxYC75NvpoD0t5,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-08-19 15:05:00,Water of Leith,Planet Patrol,55.9758332,-3.1703963,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,,,,,7,
 QHKWjy8vDdEykKh8Zz1A,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-08-19 15:05:00,Water of Leith,Planet Patrol,55.9758278,-3.1703966,Scotland,EH6 6RA,City of Edinburgh,Scotland,,200,ppb,,,,,,
 ZWebiJclMM9N2YvPae3u,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-08-19 15:05:00,Water of Leith,Planet Patrol,55.9757964,-3.1703931,Scotland,EH6 6RA,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
-OwI51F9efyLXAQJeTTO9,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 15:15:00,Water of Leith,Planet Patrol,55.9764522,-3.1699283,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,16
 PsPjd3PXdlz1Bwh9p2RZ,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,coliforms,2026-08-19 15:15:00,Water of Leith,Planet Patrol,,,,,,,True,,,,,,,,
+OwI51F9efyLXAQJeTTO9,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,temperature,2026-08-19 15:15:00,Water of Leith,Planet Patrol,55.9764522,-3.1699283,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,,16
 JxzRf15QGsNVWMMbt40U,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,ph,2026-08-19 15:15:00,Water of Leith,Planet Patrol,55.9764662,-3.1700274,Scotland,EH6 6AL,City of Edinburgh,Scotland,,,,,,,,8,
 0l9ob70lul6Nsn6xDj8h,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,phosphate,2026-08-19 15:15:00,Water of Leith,Planet Patrol,55.976293,-3.1698393,Scotland,EH6 6QU,City of Edinburgh,Scotland,,100,ppb,,,,,,
 ZqdbjCz4HYZf1LmsHL8i,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-08-19 15:15:00,Water of Leith,Planet Patrol,55.9763803,-3.1699559,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,1,mg/l,10,mg/l,,
 ws9BaffhRyGTVeQoOou3,B8vIhAYOPbaMVvwRLbHs2Wiqjei2,nitrate,2026-08-19 15:15:00,W,Planet Patrol,55.9763708,-3.169895,Scotland,EH6 6QU,City of Edinburgh,Scotland,,,,0,mg/l,0,mg/l,,
+Sh6WT16QMzCqDl8ncsVA,CqVa1lOOAeaT9gUAGGZlS6pBIpa2,temperature,2026-08-24 13:04:21,Grand union canal,Planet Patrol,51.52268,-0.20166166666666668,London,W9 3NX,Westminster,England,,,,,,,,,20
+2jyDh7taJbU1whCBT2sQ,CqVa1lOOAeaT9gUAGGZlS6pBIpa2,nitrate,2026-08-24 13:07:07,Grand union canal,Planet Patrol,51.52258333333333,-0.20160499999999998,London,W9 3NX,Westminster,England,,,,0,mg/l,0,mg/l,,
+dhBYPLCfl4siK61lSXH8,CqVa1lOOAeaT9gUAGGZlS6pBIpa2,ph,2026-08-24 13:08:21,Grand union canal,Planet Patrol,51.52262833333333,-0.20163833333333334,London,W9 3NX,Westminster,England,,,,,,,,8.5,
+FtBIu0nuW9icC8khigQi,CqVa1lOOAeaT9gUAGGZlS6pBIpa2,phosphate,2026-08-24 13:09:05,Grand union canal,Planet Patrol,51.52268,-0.20166333333333333,London,W9 3NX,Westminster,England,,0,ppb,,,,,,
